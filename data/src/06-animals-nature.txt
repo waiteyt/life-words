@@ -1,0 +1,191 @@
+@pets 寵物與農場動物 🐶
+狗|dog|Dog|🐕|1
+小狗|puppy|Puppy|🐶|1
+貓|cat|Cat|🐈|1
+小貓|kitten|Kitten|🐱|1
+兔子|rabbit|Domestic rabbit|🐰|1
+倉鼠|hamster|Golden hamster|🐹|1
+天竺鼠|guinea pig|Guinea pig|🐹|2
+金魚|goldfish|Goldfish|🐠|1
+烏龜|turtle|Turtle|🐢|1
+鸚鵡|parrot|Parrot|🦜|1
+雞|chicken|Chicken|🐔|1
+小雞|chick|Chick (bird)|🐥|1
+公雞|rooster|Rooster|🐓|2
+鴨子|duck|Duck|🦆|1
+鵝|goose|Goose|🪿|2
+豬|pig|Domestic pig|🐖|1
+牛|cow|Cattle|🐄|1
+水牛|water buffalo|Water buffalo|🐃|2
+羊|sheep|Sheep|🐑|1
+山羊|goat|Goat|🐐|2
+馬|horse|Horse|🐎|1
+驢子|donkey|Donkey|🫏|2
+@wild 野生動物 🦁
+獅子|lion|Lion|🦁|1
+老虎|tiger|Tiger|🐯|1
+大象|elephant|Elephant|🐘|1
+長頸鹿|giraffe|Giraffe|🦒|1
+斑馬|zebra|Zebra|🦓|1
+猴子|monkey|Monkey|🐒|1
+猩猩|gorilla|Gorilla|🦍|2
+紅毛猩猩|orangutan|Orangutan|🦧|2
+熊|bear|Brown bear|🐻|1
+熊貓|panda|Giant panda|🐼|1
+台灣黑熊|Formosan black bear|Formosan black bear|🐻|1
+無尾熊|koala|Koala|🐨|1
+袋鼠|kangaroo|Kangaroo|🦘|1
+河馬|hippo|Hippopotamus|🦛|1
+犀牛|rhino|Rhinoceros|🦏|2
+鱷魚|crocodile|Crocodile|🐊|1
+狐狸|fox|Red fox|🦊|1
+狼|wolf|Wolf|🐺|2
+鹿|deer|Deer|🦌|1
+梅花鹿|sika deer|Sika deer|🦌|2
+松鼠|squirrel|Squirrel|🐿️|1
+刺蝟|hedgehog|Hedgehog|🦔|2
+浣熊|raccoon|Raccoon|🦝|2
+臭鼬|skunk|Skunk|🦨|2
+樹懶|sloth|Sloth|🦥|2
+蝙蝠|bat|Bat|🦇|2
+老鼠|mouse|House mouse|🐭|1
+穿山甲|pangolin|Pangolin|🦔|2
+石虎|leopard cat|Leopard cat|🐱|2
+駱駝|camel|Camel|🐫|2
+豹|leopard|Leopard|🐆|2
+獵豹|cheetah|Cheetah|🐆|2
+北極熊|polar bear|Polar bear|🐻‍❄️|2
+企鵝|penguin|Penguin|🐧|1
+貓頭鷹|owl|Owl|🦉|1
+老鷹|eagle|Eagle|🦅|2
+鳥|bird|Bird|🐦|1
+麻雀|sparrow|Eurasian tree sparrow|🐦|2
+鴿子|pigeon|Rock dove|🕊️|1
+烏鴉|crow|Crow|🐦‍⬛|2
+啄木鳥|woodpecker|Woodpecker|🐦|2
+孔雀|peacock|Peafowl|🦚|2
+天鵝|swan|Swan|🦢|2
+紅鶴|flamingo|Flamingo|🦩|2
+鴕鳥|ostrich|Common ostrich|🐦|2
+台灣藍鵲|Taiwan blue magpie|Taiwan blue magpie|🐦|2
+蛇|snake|Snake|🐍|1
+蜥蜴|lizard|Lizard|🦎|2
+壁虎|gecko|Gecko|🦎|1
+青蛙|frog|Frog|🐸|1
+恐龍|dinosaur|Dinosaur|🦕|1
+暴龍|T-rex|Tyrannosaurus|🦖|2
+獨角獸|unicorn|Unicorn|🦄|2
+龍|dragon|Chinese dragon|🐉|2
+@sea 海洋動物 🐠
+魚|fish|Fish|🐟|1
+鯊魚|shark|Shark|🦈|1
+鯨魚|whale|Whale|🐋|1
+海豚|dolphin|Dolphin|🐬|1
+章魚|octopus|Octopus|🐙|1
+螃蟹|crab|Crab|🦀|1
+龍蝦|lobster|Lobster|🦞|2
+海星|starfish|Starfish|⭐|1
+水母|jellyfish|Jellyfish|🪼|1
+海龜|sea turtle|Sea turtle|🐢|1
+海豹|seal|Pinniped|🦭|2
+海獅|sea lion|Sea lion|🦭|2
+海馬|seahorse|Seahorse|🐴|2
+小丑魚|clownfish|Amphiprioninae|🐠|1
+河豚|pufferfish|Tetraodontidae|🐡|2
+魟魚|stingray|Stingray|🐟|2
+烏賊|squid|Squid|🦑|2
+貝殼|seashell|Seashell|🐚|1
+蛤蜊|clam|Clam|🐚|2
+牡蠣|oyster|Oyster|🦪|2
+海膽|sea urchin|Sea urchin|🟣|2
+珊瑚|coral|Coral|🪸|2
+寄居蟹|hermit crab|Hermit crab|🐚|2
+@bugs 昆蟲與小動物 🐞
+螞蟻|ant|Ant|🐜|1
+蜜蜂|bee|Honey bee|🐝|1
+蝴蝶|butterfly|Butterfly|🦋|1
+毛毛蟲|caterpillar|Caterpillar|🐛|1
+瓢蟲|ladybug|Coccinellidae|🐞|1
+蚊子|mosquito|Mosquito|🦟|1
+蒼蠅|fly|Housefly|🪰|1
+蟑螂|cockroach|Cockroach|🪳|1
+蜘蛛|spider|Spider|🕷️|1
+蜘蛛網|spider web|Spider web|🕸️|2
+蝸牛|snail|Snail|🐌|1
+蚯蚓|earthworm|Earthworm|🪱|2
+蜻蜓|dragonfly|Dragonfly|🦋|2
+螢火蟲|firefly|Firefly|✨|2
+蟬|cicada|Cicada|🦗|2
+蟋蟀|cricket|Cricket (insect)|🦗|2
+蚱蜢|grasshopper|Grasshopper|🦗|2
+螳螂|praying mantis|Mantis|🦗|2
+獨角仙|rhinoceros beetle|Dynastinae|🪲|2
+鍬形蟲|stag beetle|Stag beetle|🪲|2
+蝌蚪|tadpole|Tadpole|🐸|2
+蜈蚣|centipede|Centipede|🐛|2
+@nature 植物與大自然 🌳
+樹|tree|Tree|🌳|1
+樹葉|leaf|Leaf|🍃|1
+花|flower|Flower|🌸|1
+草|grass|Poaceae|🌱|1
+玫瑰|rose|Rose|🌹|1
+向日葵|sunflower|Common sunflower|🌻|1
+鬱金香|tulip|Tulip|🌷|2
+櫻花|cherry blossom|Cherry blossom|🌸|1
+蓮花|lotus|Nelumbo nucifera|🪷|2
+蒲公英|dandelion|Taraxacum|🌼|2
+仙人掌|cactus|Cactus|🌵|1
+竹子|bamboo|Bamboo|🎋|2
+椰子樹|palm tree|Arecaceae|🌴|2
+松樹|pine tree|Pine|🌲|2
+蘑菇|mushroom|Mushroom|🍄|2
+種子|seed|Seed|🌰|2
+樹枝|branch|Branch|🌿|2
+樹根|root|Root|🌳|2
+松果|pine cone|Conifer cone|🌲|2
+落葉|fallen leaves|Autumn leaf color|🍂|2
+石頭|rock|Rock (geology)|🪨|1
+沙子|sand|Sand|🏖️|1
+泥巴|mud|Mud|🟫|1
+土|soil|Soil|🟫|2
+水坑|puddle|Puddle|💧|2
+河|river|River|🏞️|1
+湖|lake|Lake|🏞️|2
+海|sea|Ocean|🌊|1
+浪|wave|Wind wave|🌊|2
+瀑布|waterfall|Waterfall|🏞️|2
+森林|forest|Forest|🌲|2
+沙漠|desert|Desert|🏜️|2
+島|island|Island|🏝️|2
+火山|volcano|Volcano|🌋|2
+洞穴|cave|Cave|🕳️|2
+@weather 天氣與天空 ☀️
+太陽|sun|Sun|☀️|1
+月亮|moon|Moon|🌙|1
+星星|star|Star|⭐|1
+雲|cloud|Cloud|☁️|1
+天空|sky|Sky|🌤️|1
+雨|rain|Rain|🌧️|1
+彩虹|rainbow|Rainbow|🌈|1
+風|wind|Wind|🌬️|1
+打雷|thunder|Thunder|⛈️|1
+閃電|lightning|Lightning|⚡|1
+颱風|typhoon|Typhoon|🌀|1
+雪|snow|Snow|❄️|1
+雪人|snowman|Snowman|⛄|2
+冰|ice|Ice|🧊|2
+霧|fog|Fog|🌫️|2
+晴天|sunny day|-|☀️|1
+陰天|cloudy day|-|☁️|2
+白天|daytime|Daytime|🌞|1
+晚上|night|Night|🌃|1
+早上|morning|Morning|🌅|2
+地震|earthquake|Earthquake|🫨|2
+地球|Earth|Earth|🌍|1
+星球|planet|Planet|🪐|2
+流星|shooting star|Meteoroid|🌠|2
+日出|sunrise|Sunrise|🌅|2
+夕陽|sunset|Sunset|🌇|2
+影子|shadow|Shadow|👤|2
+火|fire|Fire|🔥|1
+煙|smoke|Smoke|💨|2

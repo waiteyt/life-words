@@ -1,0 +1,162 @@
+@public 街上與公共設施 🏙️
+垃圾車音樂|garbage truck music|-|🎶|2
+郵筒|mailbox|Post box|📮|1
+公共電話|pay phone|Payphone|☎️|2
+廁所|restroom|Public toilet|🚻|1
+飲水台|drinking fountain|Drinking fountain|⛲|2
+噴水池|fountain|Fountain|⛲|2
+長椅|bench|Bench (furniture)|🪑|2
+雕像|statue|Statue|🗿|2
+旗子|flag|Flag|🚩|1
+國旗|national flag|Flag of Taiwan|🇹🇼|2
+招牌|signboard|Sign|🪧|2
+電線桿|utility pole|Utility pole|🗼|2
+人孔蓋|manhole cover|Manhole cover|⚫|2
+消防栓|fire hydrant|Fire hydrant|🚒|2
+騎樓|arcade sidewalk|Arcade (architecture)|🏛️|2
+天橋|footbridge|Footbridge|🌉|2
+地下道|underpass|Underpass|🚇|2
+圍牆|fence wall|Fence|🧱|2
+大門|gate|Gate|🚪|2
+警衛室|guard booth|Guard house|💂|2
+樓梯扶手|handrail|Handrail|🪜|2
+手扶梯|escalator|Escalator|🛗|1
+旋轉門|revolving door|Revolving door|🚪|2
+自動門|automatic door|Automatic door|🚪|2
+柵欄|railing|Guard rail|🚧|2
+施工中|under construction|Roadworks|🚧|2
+YouBike|public bike|YouBike|🚲|1
+停車格|parking space|Parking space|🅿️|2
+停車費單|parking ticket|-|🧾|2
+垃圾子母車|dumpster|Dumpster|🗑️|2
+@baby 嬰幼兒用品 🍼
+奶嘴|pacifier|Pacifier|🍼|1
+學習杯|sippy cup|Sippy cup|🥤|1
+固齒器|teether|Teething ring|🦷|2
+背巾|baby carrier|Baby carrier|👶|2
+澡盆|baby bathtub|-|🛁|2
+學步車|baby walker|Baby walker|👶|2
+遊戲圍欄|playpen|Playpen|🚧|2
+安全門欄|baby gate|Baby gate|🚧|2
+防撞角|corner guard|-|🟨|2
+兒童牙刷|kids toothbrush|Toothbrush|🪥|2
+兒童餐具|kids tableware|-|🍽️|2
+小書包|small backpack|Backpack|🎒|2
+水杯袋|bottle bag|-|👜|2
+防蚊液|mosquito repellent|Insect repellent|🦟|2
+小夾鏈袋|zip bag|Zipper storage bag|🛍️|2
+@store 超市商品 🛍️
+衛生棉|sanitary pad|Sanitary napkin|🩹|2
+洗衣精|laundry detergent|Laundry detergent|🧴|2
+柔軟精|fabric softener|Fabric softener|🧴|2
+漂白水|bleach|Bleach|🧴|2
+殺蟲劑|insect spray|Insecticide|🪳|2
+芳香劑|air freshener|Air freshener|🌸|2
+電燈泡|bulb|Light-emitting diode|💡|2
+乾電池|AA battery|AA battery|🔋|2
+打火機|lighter|Lighter|🔥|2
+火柴|matches|Match|🔥|2
+燕麥|oatmeal|Oatmeal|🥣|2
+泡麵|instant noodles|Instant noodles|🍜|1
+即溶咖啡|instant coffee|Instant coffee|☕|2
+礦泉水|bottled water|Bottled water|💧|1
+鮮奶|fresh milk|Milk|🥛|2
+保久乳|UHT milk|Ultra-high-temperature processing|🥛|2
+冷凍水餃|frozen dumplings|-|🥟|2
+冰棒盒|ice pop box|-|🍡|2
+整條吐司|loaf of bread|Sliced bread|🍞|2
+蛋盒|egg carton|Egg carton|🥚|2
+寵物飼料|pet food|Pet food|🐾|2
+貓砂|cat litter|Litter box|🐈|2
+狗鍊|dog leash|Leash|🐕|2
+魚缸|fish tank|Aquarium|🐠|1
+鳥籠|birdcage|Birdcage|🐦|2
+狗屋|doghouse|Doghouse|🏠|2
+@garden 庭院與戶外 🏡
+花園|garden|Garden|🌷|2
+花盆|flower pot|Flowerpot|🪴|2
+草坪|lawn|Lawn|🌱|2
+割草機|lawn mower|Lawn mower|🚜|2
+落葉耙|rake|Rake (tool)|🍂|2
+籬笆|fence|Fence|🚧|2
+門口信箱|front mailbox|-|📫|2
+鳥巢|bird nest|Bird nest|🪺|2
+蜂窩|beehive|Beehive|🐝|2
+螞蟻窩|anthill|Anthill|🐜|2
+蛋殼|eggshell|Eggshell|🥚|2
+羽毛|feather|Feather|🪶|2
+腳印|footprint|Footprint|👣|2
+沙堡|sandcastle|Sand art and play|🏰|2
+充氣泳圈|pool float|Inflatable|🛟|2
+陽傘|parasol|Umbrella|⛱️|2
+吊床|hammock|Hammock|🪢|2
+營火|campfire|Campfire|🔥|2
+烤肉架|grill|Barbecue grill|🍖|2
+冰桶|cooler|Cooler|🧊|2
+@work 爸爸媽媽的工作 💼
+會議|meeting|Meeting|👥|2
+簡報|presentation|Presentation|📊|2
+名片|business card|Business card|📇|2
+公事包|briefcase|Briefcase|💼|2
+合約|contract|Contract|📝|2
+支票|check|Cheque|🧾|2
+存摺|bankbook|Passbook|📘|2
+印表紙|printer paper|Paper|📄|2
+影印機|photocopier|Photocopier|🖨️|2
+傳真機|fax machine|Fax|📠|2
+電話會議|video call|Videotelephony|💻|2
+筆電包|laptop bag|Laptop bag|💼|2
+咖啡杯|coffee cup|Coffee cup|☕|2
+工作證|ID badge|Identity document|🪪|2
+打卡鐘|time clock|Time clock|⏰|2
+倉庫|warehouse|Warehouse|🏭|2
+貨架|shelf|Shelf (storage)|🗄️|2
+棧板|pallet|Pallet|🟫|2
+堆高機|forklift|Forklift|🚜|2
+快遞|courier|Courier|📦|2
+@vehicle-parts 車子零件 🛞
+引擎|engine|Engine|⚙️|2
+車燈|headlight|Headlamp|💡|2
+方向燈|turn signal|Automotive lighting|🟠|2
+排氣管|exhaust pipe|Exhaust system|💨|2
+油門|accelerator pedal|Car controls|🦶|2
+煞車|brake|Brake|🛑|2
+排檔桿|gear stick|Gear stick|🕹️|2
+車鑰匙|car key|Car key|🔑|2
+機車坐墊|scooter seat|-|🛵|2
+腳踏車鈴|bicycle bell|Bicycle bell|🔔|2
+腳踏車頭盔|bike helmet|Bicycle helmet|⛑️|2
+打氣筒|bicycle pump|Bicycle pump|🚲|2
+千斤頂|car jack|Jack (device)|🔧|2
+機車雨衣|scooter raincoat|-|🧥|2
+@foodmore 更多食物 🍽️
+玉米濃湯|corn soup|Corn soup|🥣|2
+味噌湯|miso soup|Miso soup|🥣|2
+排骨|pork chop|Pork chop|🍖|2
+魚排|fish fillet|Fish fillet|🐟|2
+鮭魚|salmon|Salmon as food|🐟|2
+鮪魚|tuna|Tuna as food|🐟|2
+虱目魚|milkfish|Milkfish|🐟|2
+花枝|cuttlefish|Cuttlefish|🦑|2
+蛋包飯|omurice|Omurice|🍳|2
+蒸蛋|steamed egg|Chawanmushi|🥚|2
+滷蛋|braised egg|Soy egg|🥚|2
+皮蛋|century egg|Century egg|🥚|2
+水煮蛋|boiled egg|Boiled egg|🥚|1
+炒青菜|stir-fried vegetables|Stir frying|🥬|2
+烤地瓜|roasted sweet potato|Roasted sweet potato|🍠|2
+烤雞|roast chicken|Roast chicken|🍗|2
+鹹酥餅|savory biscuit|-|🍪|2
+牛角麵包|crescent roll|Croissant|🥐|2
+法國麵包|baguette|Baguette|🥖|2
+紅豆餅|red bean wheel cake|Imagawayaki|🥮|2
+綠豆湯|mung bean soup|Mung bean soup|🥣|2
+紅豆湯|red bean soup|Red bean soup|🥣|2
+仙草|grass jelly|Grass jelly|⬛|2
+愛玉|aiyu jelly|Aiyu jelly|🟨|2
+奶茶|milk tea|Milk tea|🧋|2
+紅茶|black tea|Black tea|🍵|2
+綠茶|green tea|Green tea|🍵|2
+檸檬水|lemonade|Lemonade|🍋|2
+椰子水|coconut water|Coconut water|🥥|2
+運動飲料|sports drink|Sports drink|🥤|2

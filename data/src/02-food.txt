@@ -1,0 +1,229 @@
+@fruit 水果 🍎
+蘋果|apple|Apple|🍎|1
+香蕉|banana|Banana|🍌|1
+橘子|tangerine|Tangerine|🍊|1
+柳丁|orange|Orange (fruit)|🍊|1
+葡萄|grapes|Grape|🍇|1
+西瓜|watermelon|Watermelon|🍉|1
+草莓|strawberry|Strawberry|🍓|1
+芒果|mango|Mango|🥭|1
+鳳梨|pineapple|Pineapple|🍍|1
+奇異果|kiwi|Kiwifruit|🥝|1
+水蜜桃|peach|Peach|🍑|1
+梨子|pear|Pear|🍐|1
+櫻桃|cherry|Cherry|🍒|1
+檸檬|lemon|Lemon|🍋|1
+木瓜|papaya|Papaya|🥭|1
+芭樂|guava|Guava|🍈|1
+蓮霧|wax apple|Syzygium samarangense|🍎|2
+荔枝|lychee|Lychee|🍒|2
+龍眼|longan|Longan|🟤|2
+火龍果|dragon fruit|Pitaya|🐉|1
+藍莓|blueberry|Blueberry|🫐|1
+哈密瓜|cantaloupe|Cantaloupe|🍈|2
+椰子|coconut|Coconut|🥥|2
+柿子|persimmon|Persimmon|🟠|2
+百香果|passion fruit|Passion fruit|🟣|2
+釋迦|sugar apple|Sugar-apple|🍏|2
+棗子|jujube|Jujube|🍏|2
+番茄|tomato|Tomato|🍅|1
+小番茄|cherry tomato|Cherry tomato|🍅|1
+酪梨|avocado|Avocado|🥑|2
+柚子|pomelo|Pomelo|🍈|2
+葡萄柚|grapefruit|Grapefruit|🍊|2
+李子|plum|Plum|🟣|2
+楊桃|star fruit|Carambola|⭐|2
+榴槤|durian|Durian|🟢|2
+山竹|mangosteen|Mangosteen|🟣|2
+桑葚|mulberry|Mulberry|🫐|2
+蔓越莓|cranberry|Cranberry|🔴|2
+覆盆子|raspberry|Raspberry|🔴|2
+無花果|fig|Common fig|🟤|2
+@vegetable 蔬菜 🥦
+紅蘿蔔|carrot|Carrot|🥕|1
+白蘿蔔|radish|Daikon|🥕|2
+高麗菜|cabbage|Cabbage|🥬|1
+花椰菜|broccoli|Broccoli|🥦|1
+白花椰菜|cauliflower|Cauliflower|🥦|2
+玉米|corn|Maize|🌽|1
+馬鈴薯|potato|Potato|🥔|1
+地瓜|sweet potato|Sweet potato|🍠|1
+洋蔥|onion|Onion|🧅|1
+大蒜|garlic|Garlic|🧄|1
+青蔥|green onion|Scallion|🌿|1
+薑|ginger|Ginger|🫚|2
+辣椒|chili pepper|Chili pepper|🌶️|1
+青椒|green pepper|Bell pepper|🫑|1
+小黃瓜|cucumber|Cucumber|🥒|1
+茄子|eggplant|Eggplant|🍆|1
+南瓜|pumpkin|Pumpkin|🎃|1
+菠菜|spinach|Spinach|🥬|1
+空心菜|water spinach|Ipomoea aquatica|🥬|2
+地瓜葉|sweet potato leaves|-|🥬|2
+大白菜|napa cabbage|Napa cabbage|🥬|2
+青江菜|bok choy|Bok choy|🥬|2
+芹菜|celery|Celery|🌿|2
+香菜|cilantro|Coriander|🌿|2
+九層塔|basil|Thai basil|🌿|2
+生菜|lettuce|Lettuce|🥬|2
+蘆筍|asparagus|Asparagus|🌱|2
+竹筍|bamboo shoot|Bamboo shoot|🎋|2
+豆芽菜|bean sprouts|Bean sprout|🌱|2
+四季豆|green beans|Green bean|🫛|2
+豌豆|peas|Pea|🫛|2
+毛豆|edamame|Edamame|🫛|2
+秋葵|okra|Okra|🌶️|2
+苦瓜|bitter melon|Momordica charantia|🥒|2
+絲瓜|luffa|Luffa|🥒|2
+冬瓜|winter melon|Wax gourd|🍈|2
+蓮藕|lotus root|Nelumbo nucifera|⚪|2
+芋頭|taro|Taro|🟣|2
+山藥|yam|Dioscorea polystachya|🍠|2
+香菇|shiitake mushroom|Shiitake|🍄|1
+金針菇|enoki mushroom|Enokitake|🍄|2
+杏鮑菇|king oyster mushroom|Pleurotus eryngii|🍄|2
+木耳|wood ear|Auricularia heimuer|🍄|2
+海帶|kelp|Kelp|🌿|2
+豆腐|tofu|Tofu|⬜|1
+@meal 主食與料理 🍚
+白飯|rice|Cooked rice|🍚|1
+稀飯|rice porridge|Congee|🥣|1
+麵|noodles|Noodle|🍜|1
+麵包|bread|Bread|🍞|1
+吐司|toast|Toast (food)|🍞|1
+饅頭|steamed bun|Mantou|🥟|1
+包子|stuffed bun|Baozi|🥟|1
+水餃|dumplings|Jiaozi|🥟|1
+蛋|egg|Egg as food|🥚|1
+荷包蛋|fried egg|Fried egg|🍳|1
+蛋餅|egg crepe|Danbing|🌯|1
+飯糰|rice ball|Onigiri|🍙|1
+三明治|sandwich|Sandwich|🥪|1
+漢堡|hamburger|Hamburger|🍔|1
+薯條|french fries|French fries|🍟|1
+披薩|pizza|Pizza|🍕|1
+熱狗|hot dog|Hot dog|🌭|2
+炸雞|fried chicken|Fried chicken|🍗|1
+雞塊|chicken nuggets|Chicken nugget|🍗|1
+雞腿|chicken drumstick|Drumstick (poultry)|🍗|1
+牛排|steak|Steak|🥩|2
+肉|meat|Meat|🥩|1
+魚肉|fish (food)|Fish as food|🐟|1
+蝦子|shrimp|Shrimp|🦐|1
+香腸|sausage|Sausage|🌭|1
+火腿|ham|Ham|🥓|2
+培根|bacon|Bacon|🥓|2
+湯|soup|Soup|🍲|1
+火鍋|hot pot|Hot pot|🍲|1
+咖哩飯|curry rice|Japanese curry|🍛|1
+炒飯|fried rice|Fried rice|🍚|1
+義大利麵|spaghetti|Spaghetti|🍝|1
+壽司|sushi|Sushi|🍣|1
+拉麵|ramen|Ramen|🍜|2
+烏龍麵|udon|Udon|🍜|2
+便當|lunch box|Bento|🍱|1
+沙拉|salad|Salad|🥗|2
+牛肉麵|beef noodle soup|Beef noodle soup|🍜|1
+滷肉飯|braised pork rice|Lu rou fan|🍚|1
+餛飩|wonton|Wonton|🥟|2
+鍋貼|potstickers|Guotie|🥟|2
+小籠包|soup dumplings|Xiaolongbao|🥟|1
+燒賣|shumai|Shumai|🥟|2
+粽子|rice dumpling|Zongzi|🍙|2
+春捲|spring roll|Spring roll|🌯|2
+蘿蔔糕|turnip cake|Turnip cake|⬜|2
+油條|fried dough stick|Youtiao|🥖|2
+燒餅|sesame flatbread|Shaobing|🫓|2
+蔥油餅|scallion pancake|Scallion pancake|🫓|2
+鬆餅|pancake|Pancake|🥞|1
+可頌|croissant|Croissant|🥐|2
+貝果|bagel|Bagel|🥯|2
+麥片|cereal|Breakfast cereal|🥣|2
+年糕|rice cake|Nian gao|🍘|2
+湯圓|sweet rice balls|Tangyuan (food)|⚪|2
+@taiwan 台灣小吃 🏮
+珍珠奶茶|bubble tea|Bubble tea|🧋|1
+雞排|fried chicken cutlet|Taiwanese fried chicken|🍗|1
+鹽酥雞|popcorn chicken|Taiwanese popcorn chicken|🍗|2
+蚵仔煎|oyster omelet|Oyster omelette|🍳|2
+臭豆腐|stinky tofu|Stinky tofu|⬜|2
+大腸包小腸|sausage in rice sausage|Small sausage in large sausage|🌭|2
+肉圓|ba-wan|Ba-wan|🥟|2
+割包|gua bao|Gua bao|🥪|2
+筒仔米糕|tube rice pudding|-|🍚|2
+米粉|rice vermicelli|Rice vermicelli|🍜|2
+肉粽|meat rice dumpling|Zongzi|🍙|2
+豆花|tofu pudding|Douhua|🍮|1
+刨冰|shaved ice|Shaved ice|🍧|1
+芒果冰|mango shaved ice|Baobing|🍧|2
+雞蛋糕|egg cake|Egg waffle|🧇|1
+車輪餅|wheel cake|Imagawayaki|🥮|2
+糖葫蘆|candied fruit skewer|Tanghulu|🍡|2
+烤玉米|grilled corn|-|🌽|2
+地瓜球|sweet potato balls|-|🟠|2
+茶葉蛋|tea egg|Tea egg|🥚|1
+關東煮|oden|Oden|🍢|2
+滷味|braised snacks|Lou mei|🍢|2
+麻糬|mochi|Mochi|🍡|1
+鳳梨酥|pineapple cake|Pineapple cake|🟨|2
+月餅|mooncake|Mooncake|🥮|2
+@snack 點心與飲料 🍪
+餅乾|cookie|Cookie|🍪|1
+蛋糕|cake|Cake|🍰|1
+生日蛋糕|birthday cake|Birthday cake|🎂|1
+冰淇淋|ice cream|Ice cream|🍦|1
+冰棒|popsicle|Ice pop|🍡|1
+巧克力|chocolate|Chocolate|🍫|1
+糖果|candy|Candy|🍬|1
+棒棒糖|lollipop|Lollipop|🍭|1
+軟糖|gummy candy|Gummy candy|🧸|1
+洋芋片|potato chips|Potato chip|🥔|1
+爆米花|popcorn|Popcorn|🍿|1
+布丁|pudding|Custard pudding|🍮|1
+果凍|jelly|Gelatin dessert|🟥|1
+甜甜圈|donut|Doughnut|🍩|1
+蛋塔|egg tart|Egg tart|🥧|2
+泡芙|cream puff|Profiterole|🟡|2
+馬卡龍|macaron|Macaron|🟣|2
+仙貝|rice cracker|Senbei|🍘|2
+海苔|seaweed snack|Nori|🟩|1
+優格|yogurt|Yogurt|🥛|1
+起司|cheese|Cheese|🧀|1
+奶油|butter|Butter|🧈|2
+果醬|jam|Fruit preserves|🍓|2
+花生醬|peanut butter|Peanut butter|🥜|2
+蜂蜜|honey|Honey|🍯|1
+花生|peanut|Peanut|🥜|2
+堅果|nuts|Nut (fruit)|🌰|2
+葡萄乾|raisins|Raisin|🍇|2
+水|water|Drinking water|💧|1
+牛奶|milk|Milk|🥛|1
+豆漿|soy milk|Soy milk|🥛|1
+果汁|juice|Juice|🧃|1
+柳橙汁|orange juice|Orange juice|🧃|2
+養樂多|yakult|Yakult|🧃|1
+茶|tea|Tea|🍵|1
+咖啡|coffee|Coffee|☕|1
+汽水|soda|Soft drink|🥤|2
+可樂|cola|Cola|🥤|2
+熱可可|hot chocolate|Hot chocolate|☕|2
+米漿|rice milk|Rice milk|🥛|2
+奶粉|formula|Infant formula|🍼|2
+冰塊|ice cube|Ice cube|🧊|1
+@seasoning 調味料與食材 🧂
+鹽|salt|Salt|🧂|2
+糖|sugar|Sugar|🍬|2
+醬油|soy sauce|Soy sauce|🫙|2
+醋|vinegar|Vinegar|🫙|2
+油|cooking oil|Cooking oil|🫒|2
+番茄醬|ketchup|Ketchup|🍅|1
+胡椒|pepper|Black pepper|🧂|2
+麵粉|flour|Flour|🌾|2
+米|uncooked rice|Rice|🌾|2
+麵條|dry noodles|Noodle|🍜|2
+雞蛋|egg|Egg|🥚|2
+豬肉|pork|Pork|🥩|2
+牛肉|beef|Beef|🥩|2
+雞肉|chicken meat|Chicken as food|🍗|2
+魚丸|fish ball|Fish ball|⚪|2
+貢丸|pork ball|Gongwan|⚪|2

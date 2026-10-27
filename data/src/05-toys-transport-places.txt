@@ -1,0 +1,175 @@
+@toys 玩具 🧸
+玩具|toy|Toy|🧸|1
+球|ball|Ball|⚽|1
+氣球|balloon|Balloon|🎈|1
+娃娃|doll|Doll|🪆|1
+布偶|stuffed animal|Stuffed toy|🧸|1
+泰迪熊|teddy bear|Teddy bear|🧸|2
+積木|blocks|Toy block|🧱|1
+樂高|LEGO bricks|Lego|🧱|1
+拼圖|puzzle|Jigsaw puzzle|🧩|1
+玩具車|toy car|Toy vehicle|🚗|1
+火車玩具|toy train|Toy train|🚂|2
+遙控車|RC car|Radio-controlled car|🏎️|2
+飛盤|frisbee|Flying disc|🥏|2
+泡泡|bubbles|Soap bubble|🫧|1
+風箏|kite|Kite|🪁|1
+陀螺|spinning top|Top|🌀|2
+溜溜球|yo-yo|Yo-yo|🪀|2
+跳繩|jump rope|Skipping rope|🪢|2
+呼拉圈|hula hoop|Hula hoop|⭕|2
+黏土|play dough|Play-Doh|🟢|1
+扮家家酒|pretend play kitchen|Toy kitchen|🍳|2
+玩具廚房|toy kitchen|Toy kitchen|🍳|2
+醫生玩具|doctor kit|-|🩺|2
+彈珠|marbles|Marble (toy)|🔵|2
+撲克牌|playing cards|Playing card|🃏|2
+骰子|dice|Dice|🎲|2
+魔術方塊|Rubik's cube|Rubik's Cube|🟩|2
+沙灘玩具|sand toys|-|🪣|2
+水槍|water gun|Water gun|🔫|2
+滑板車|kick scooter|Kick scooter|🛴|1
+三輪車|tricycle|Tricycle|🚲|1
+滑步車|balance bike|Balance bicycle|🚲|2
+搖搖馬|rocking horse|Rocking horse|🐴|2
+嬰兒車|stroller|Baby transport|👶|1
+音樂盒|music box|Music box|🎵|2
+萬花筒|kaleidoscope|Kaleidoscope|🔮|2
+望遠鏡|binoculars|Binoculars|🔭|2
+帳篷|tent|Tent|⛺|2
+扭蛋|capsule toy|Gashapon|🥚|2
+夾娃娃機|claw machine|Claw crane|🕹️|2
+@vehicle 交通工具 🚗
+汽車|car|Car|🚗|1
+機車|scooter|Scooter (motorcycle)|🛵|1
+重型機車|motorcycle|Motorcycle|🏍️|2
+腳踏車|bicycle|Bicycle|🚲|1
+公車|bus|Bus|🚌|1
+遊覽車|tour bus|Coach (bus)|🚌|2
+計程車|taxi|Taxi|🚕|1
+捷運|MRT|Taipei Metro|🚇|1
+火車|train|Train|🚆|1
+高鐵|high-speed rail|Taiwan High Speed Rail|🚄|1
+台鐵|TRA train|Taiwan Railway Corporation|🚆|2
+輕軌|light rail|Light rail|🚊|2
+纜車|cable car|Gondola lift|🚡|2
+飛機|airplane|Airplane|✈️|1
+直升機|helicopter|Helicopter|🚁|1
+船|boat|Boat|🚤|1
+輪船|ship|Ship|🚢|2
+帆船|sailboat|Sailboat|⛵|2
+獨木舟|canoe|Canoe|🛶|2
+救護車|ambulance|Ambulance|🚑|1
+消防車|fire truck|Fire engine|🚒|1
+警車|police car|Police car|🚓|1
+垃圾車|garbage truck|Garbage truck|🚛|1
+卡車|truck|Truck|🚚|1
+貨車|delivery van|Van|🚐|2
+怪手|excavator|Excavator|🏗️|1
+推土機|bulldozer|Bulldozer|🚜|2
+水泥車|cement mixer|Concrete mixer|🚛|2
+吊車|crane|Crane (machine)|🏗️|2
+拖吊車|tow truck|Tow truck|🛻|2
+曳引機|tractor|Tractor|🚜|2
+油罐車|tanker truck|Tank truck|🚛|2
+郵車|mail truck|-|📮|2
+冰淇淋車|ice cream truck|Ice cream van|🍦|2
+露營車|camper van|Recreational vehicle|🚐|2
+跑車|sports car|Sports car|🏎️|2
+賽車|race car|Formula One car|🏎️|2
+電動車|electric car|Electric car|🔋|2
+火箭|rocket|Rocket|🚀|1
+太空船|spaceship|Spacecraft|🛸|2
+熱氣球|hot air balloon|Hot air balloon|🎈|2
+潛水艇|submarine|Submarine|🚢|2
+@road 車上與道路 🚦
+紅綠燈|traffic light|Traffic light|🚦|1
+斑馬線|crosswalk|Pedestrian crossing|🦓|1
+馬路|road|Road|🛣️|1
+人行道|sidewalk|Sidewalk|🚶|2
+高速公路|highway|Controlled-access highway|🛣️|2
+橋|bridge|Bridge|🌉|1
+隧道|tunnel|Tunnel|🚇|1
+路標|road sign|Traffic sign|🪧|2
+停車場|parking lot|Parking lot|🅿️|1
+加油站|gas station|Filling station|⛽|1
+充電站|charging station|Charging station|🔌|2
+公車站|bus stop|Bus stop|🚏|1
+捷運站|MRT station|Metro station|🚉|1
+火車站|train station|Train station|🚉|1
+機場|airport|Airport|🛫|1
+港口|harbor|Port|⚓|2
+收費站|toll station|Tollbooth|🛣️|2
+三角錐|traffic cone|Traffic cone|🚧|1
+路燈|street light|Street light|💡|2
+汽車座椅|car seat|Child safety seat|💺|1
+安全帶|seat belt|Seat belt|💺|1
+方向盤|steering wheel|Steering wheel|🛞|1
+輪胎|tire|Tire|🛞|1
+車門|car door|-|🚗|2
+後車廂|car trunk|Trunk (car)|🚗|2
+汽車喇叭|car horn|Vehicle horn|📯|2
+雨刷|windshield wiper|Windscreen wiper|🚗|2
+後照鏡|rearview mirror|Rear-view mirror|🪞|2
+儀表板|dashboard|Dashboard|🚗|2
+導航|GPS navigator|Satellite navigation device|🗺️|2
+行車紀錄器|dashcam|Dashcam|📹|2
+車牌|license plate|Vehicle registration plate|🔢|2
+悠遊卡|EasyCard|EasyCard|💳|1
+車票|ticket|Ticket (admission)|🎫|2
+行李箱|suitcase|Suitcase|🧳|1
+地圖|map|Map|🗺️|2
+@places 地方與建築 🏙️
+家|home|-|🏠|1
+房子|house|House|🏠|1
+公寓|apartment|Apartment|🏢|2
+大樓|building|Building|🏢|1
+房間|room|Room|🚪|1
+客廳|living room|Living room|🛋️|1
+廚房|kitchen|Kitchen|🍳|1
+浴室|bathroom|Bathroom|🛁|1
+臥室|bedroom|Bedroom|🛏️|1
+公園|park|Park|🏞️|1
+醫院|hospital|Hospital|🏥|1
+診所|clinic|Clinic|🏥|1
+藥局|pharmacy|Pharmacy|💊|1
+便利商店|convenience store|Convenience store|🏪|1
+超市|supermarket|Supermarket|🛒|1
+傳統市場|wet market|Wet market|🥬|1
+夜市|night market|Night market|🏮|1
+百貨公司|department store|Department store|🏬|2
+餐廳|restaurant|Restaurant|🍽️|1
+麥當勞|McDonald's|McDonald's|🍟|1
+咖啡店|cafe|Coffeehouse|☕|2
+麵包店|bakery|Bakery|🥐|1
+飲料店|drink stand|Bubble tea shop|🧋|2
+書店|bookstore|Bookselling|📚|2
+圖書館|library|Library|📚|1
+郵局|post office|Post office|🏤|1
+銀行|bank|Bank|🏦|2
+警察局|police station|Police station|🚓|2
+消防局|fire station|Fire station|🚒|2
+動物園|zoo|Zoo|🦁|1
+水族館|aquarium|Public aquarium|🐠|1
+博物館|museum|Museum|🏛️|2
+美術館|art museum|Art museum|🖼️|2
+電影院|movie theater|Movie theater|🎬|2
+游泳池|swimming pool|Swimming pool|🏊|1
+海邊|beach|Beach|🏖️|1
+山|mountain|Mountain|⛰️|1
+廟|temple|Taiwanese folk religion|🛕|1
+教堂|church|Church (building)|⛪|2
+城堡|castle|Castle|🏰|2
+農場|farm|Farm|🚜|2
+工廠|factory|Factory|🏭|2
+辦公室|office|Office|🏢|2
+工地|construction site|Construction|🏗️|2
+親子館|children's play center|-|🧸|1
+兒童樂園|kids' amusement park|-|🎠|2
+飯店|hotel|Hotel|🏨|2
+露營區|campsite|Campsite|⛺|2
+台北101|Taipei 101|Taipei 101|🏙️|2
+理髮店|barbershop|Barbershop|💈|2
+洗衣店|laundromat|Self-service laundry|🧺|2
+寵物店|pet shop|Pet store|🐶|2
+菜園|vegetable garden|Kitchen garden|🥬|2

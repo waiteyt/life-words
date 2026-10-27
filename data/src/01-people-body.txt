@@ -1,0 +1,171 @@
+# 格式：中文|English|Wikipedia條目(空白=同英文，-=不用網路圖)|emoji|級別(1=第一期,2=第二期)
+@people 家人與人物 👨‍👩‍👧
+爸爸|dad|-|👨|1
+媽媽|mom|-|👩|1
+阿公|grandpa|-|👴|1
+阿嬤|grandma|-|👵|1
+哥哥|older brother|-|👦|1
+姊姊|older sister|-|👧|1
+弟弟|younger brother|-|👦|1
+妹妹|younger sister|-|👧|1
+寶寶|baby|Infant|👶|1
+叔叔|uncle|-|👨|1
+阿姨|aunt|-|👩|1
+舅舅|uncle|-|👨|2
+伯伯|uncle|-|👨|2
+姑姑|aunt|-|👩|2
+表哥|cousin|-|🧑|2
+外公|grandpa|-|👴|2
+外婆|grandma|-|👵|2
+家人|family|Family|👨‍👩‍👧|1
+朋友|friend|Friendship|🧑‍🤝‍🧑|1
+同學|classmate|-|🧒|1
+老師|teacher|Teacher|🧑‍🏫|1
+男生|boy|Boy|👦|1
+女生|girl|Girl|👧|1
+小朋友|child|Child|🧒|1
+大人|adult|-|🧑|2
+老人|old person|-|🧓|2
+醫生|doctor|Physician|🧑‍⚕️|1
+護理師|nurse|Nursing|🧑‍⚕️|1
+牙醫|dentist|Dentist|🦷|1
+藥師|pharmacist|Pharmacist|💊|2
+警察|police officer|Police officer|👮|1
+消防員|firefighter|Firefighter|🧑‍🚒|1
+司機|driver|Driving|🧑‍✈️|1
+公車司機|bus driver|Bus driver|🚌|2
+廚師|chef|Chef|🧑‍🍳|1
+店員|clerk|Retail clerk|🧑‍💼|2
+收銀員|cashier|Cashier|💵|2
+郵差|mail carrier|Mail carrier|📮|1
+清潔隊員|garbage collector|Waste collector|🚛|1
+農夫|farmer|Farmer|🧑‍🌾|1
+漁夫|fisherman|Fisherman|🎣|2
+工人|worker|Construction worker|👷|1
+軍人|soldier|Soldier|💂|2
+飛行員|pilot|Aircraft pilot|🧑‍✈️|2
+空服員|flight attendant|Flight attendant|✈️|2
+太空人|astronaut|Astronaut|🧑‍🚀|2
+科學家|scientist|Scientist|🧑‍🔬|2
+工程師|engineer|Engineer|🧑‍💻|2
+畫家|painter|Painting|🧑‍🎨|2
+歌手|singer|Singing|🧑‍🎤|2
+理髮師|barber|Barber|💈|2
+保全|security guard|Security guard|🛡️|2
+校長|principal|Head teacher|🏫|2
+獸醫|veterinarian|Veterinarian|🐾|2
+魔術師|magician|Magician (illusion)|🎩|2
+小丑|clown|Clown|🤡|2
+新娘|bride|Bride|👰|2
+新郎|groom|Bridegroom|🤵|2
+聖誕老公公|Santa Claus|Santa Claus|🎅|2
+外送員|delivery rider|Food delivery|🛵|2
+@body 身體 🧍
+頭|head|-|🙂|1
+頭髮|hair|Hair|💇|1
+臉|face|-|😊|1
+眼睛|eye|Human eye|👁️|1
+眉毛|eyebrow|Eyebrow|🤨|2
+睫毛|eyelash|Eyelash|👁️|2
+鼻子|nose|Human nose|👃|1
+嘴巴|mouth|-|👄|1
+嘴唇|lips|Lip|👄|2
+牙齒|teeth|Tooth|🦷|1
+舌頭|tongue|Tongue|👅|1
+耳朵|ear|Ear|👂|1
+臉頰|cheek|Cheek|😊|2
+下巴|chin|Chin|🙂|2
+脖子|neck|Neck|🧍|1
+肩膀|shoulder|-|🧍|2
+手|hand|Hand|✋|1
+手指|finger|Finger|☝️|1
+指甲|fingernail|Nail (anatomy)|💅|2
+大拇指|thumb|Thumb|👍|2
+手臂|arm|-|💪|1
+手肘|elbow|Elbow|💪|2
+肚子|belly|-|🤰|1
+肚臍|belly button|-|⭕|2
+背|back|-|🧍|2
+屁股|bottom|-|🍑|1
+腳|foot|Foot|🦶|1
+腿|leg|-|🦵|1
+膝蓋|knee|-|🦵|2
+腳趾頭|toe|Toe|🦶|2
+腳跟|heel|-|🦶|2
+@feelings 感覺與情緒 😊
+開心|happy|-|😄|1
+難過|sad|-|😢|1
+生氣|angry|-|😠|1
+害怕|scared|-|😨|1
+驚訝|surprised|-|😮|1
+想睡覺|sleepy|-|😪|1
+累|tired|-|😩|1
+餓|hungry|-|🍽️|1
+渴|thirsty|-|🥤|1
+痛|hurt|-|🤕|1
+冷|cold|-|🥶|1
+熱|hot|-|🥵|1
+害羞|shy|-|😳|1
+無聊|bored|-|😑|2
+興奮|excited|-|🤩|2
+緊張|nervous|-|😬|2
+擔心|worried|-|😟|2
+好吃|yummy|-|😋|1
+不舒服|sick|-|🤒|1
+愛|love|-|❤️|1
+喜歡|like|-|👍|1
+不要|no thank you|-|🙅|1
+等一下|wait|-|✋|1
+幫忙|help|-|🤝|1
+謝謝|thank you|-|🙏|1
+對不起|sorry|-|🙇|1
+@actions 生活動作 🏃
+吃飯|eat|-|🍚|1
+喝水|drink water|-|🥛|1
+睡覺|sleep|-|😴|1
+洗澡|take a bath|-|🛁|1
+刷牙|brush teeth|-|🪥|1
+洗手|wash hands|-|🧼|1
+上廁所|go potty|-|🚽|1
+穿衣服|get dressed|-|👕|1
+穿鞋子|put on shoes|-|👟|1
+走路|walk|-|🚶|1
+跑步|run|-|🏃|1
+跳|jump|-|🦘|1
+爬|climb|-|🧗|2
+坐|sit|-|🪑|1
+站|stand|-|🧍|1
+躺|lie down|-|🛌|2
+抱抱|hug|-|🤗|1
+親親|kiss|-|😘|1
+哭|cry|-|😭|1
+笑|laugh|-|😆|1
+唱歌|sing|-|🎤|1
+跳舞|dance|-|💃|1
+畫畫|draw|-|🎨|1
+看書|read a book|-|📖|1
+看電視|watch TV|-|📺|1
+玩|play|-|🧸|1
+游泳|swim|-|🏊|1
+騎腳踏車|ride a bike|-|🚴|2
+開車|drive|-|🚗|2
+買東西|go shopping|-|🛒|2
+煮飯|cook|-|🍳|2
+洗碗|wash dishes|-|🍽️|2
+掃地|sweep|-|🧹|2
+丟垃圾|take out trash|-|🗑️|2
+打電話|make a phone call|-|📞|2
+拍照|take a photo|-|📸|2
+拍手|clap|-|👏|1
+揮手|wave|-|👋|1
+吹|blow|-|🌬️|2
+推|push|-|🫸|2
+拉|pull|-|🫷|2
+丟|throw|-|🤾|2
+接|catch|-|🧤|2
+踢|kick|-|⚽|2
+打開|open|-|📂|1
+關起來|close|-|📁|1
+排隊|line up|-|🚶|2
+分享|share|-|🤲|2
+收玩具|tidy up|-|🧺|1

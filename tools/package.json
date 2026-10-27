@@ -1,0 +1,1 @@
+{ "name": "life-words-tools", "private": true, "type": "module", "dependencies": { "pinyin-pro": "^3.26.0" } }

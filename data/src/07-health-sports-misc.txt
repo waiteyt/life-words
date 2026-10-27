@@ -1,0 +1,145 @@
+@health 醫院與健康 🏥
+體溫計|thermometer|Medical thermometer|🌡️|1
+OK繃|bandage|Adhesive bandage|🩹|1
+藥|medicine|Medication|💊|1
+藥水|liquid medicine|Syrup|🧪|1
+藥膏|ointment|Topical medication|🧴|2
+針筒|syringe|Syringe|💉|1
+打針|vaccine shot|Vaccination|💉|1
+聽診器|stethoscope|Stethoscope|🩺|1
+輪椅|wheelchair|Wheelchair|🦽|2
+拐杖|crutch|Crutch|🦯|2
+病床|hospital bed|Hospital bed|🛏️|2
+點滴|IV drip|Intravenous therapy|💧|2
+退熱貼|cooling patch|-|🧊|2
+冰枕|ice pack|Ice pack|🧊|2
+健保卡|health insurance card|National Health Insurance (Taiwan)|💳|2
+洗鼻器|nasal rinse|Nasal irrigation|💧|2
+吸鼻器|nasal aspirator|Nasal aspirator|👃|2
+醫療口罩|surgical mask|Surgical mask|😷|2
+酒精|hand sanitizer|Hand sanitizer|🧴|1
+牙套|braces|Dental braces|🦷|2
+石膏|cast|Orthopedic cast|🦴|2
+X光|X-ray|Radiography|☢️|2
+血壓計|blood pressure monitor|Sphygmomanometer|🩺|2
+救護箱|first aid kit|First aid kit|🧰|2
+咳嗽|cough|-|😷|1
+發燒|fever|-|🤒|1
+流鼻水|runny nose|-|🤧|1
+打噴嚏|sneeze|-|🤧|2
+@sports 運動與戶外 ⚽
+足球|soccer ball|Ball (association football)|⚽|1
+籃球|basketball|Basketball (ball)|🏀|1
+棒球|baseball|Baseball (ball)|⚾|1
+排球|volleyball|Volleyball (ball)|🏐|2
+網球|tennis ball|Tennis ball|🎾|2
+羽毛球|badminton|Shuttlecock|🏸|2
+桌球|table tennis|Table tennis|🏓|2
+保齡球|bowling|Bowling ball|🎳|2
+高爾夫球|golf|Golf ball|⛳|2
+球拍|racket|Racket (sports equipment)|🏸|2
+球棒|baseball bat|Baseball bat|🏏|2
+棒球手套|baseball glove|Baseball glove|🧤|2
+溜冰鞋|roller skates|Roller skates|🛼|2
+滑板|skateboard|Skateboard|🛹|2
+泳圈|swim ring|Swim ring|🛟|1
+蛙鏡|swim goggles|Goggles|🥽|1
+救生衣|life jacket|Personal flotation device|🦺|2
+啞鈴|dumbbell|Dumbbell|🏋️|2
+瑜珈墊|yoga mat|Yoga mat|🧘|2
+跑步機|treadmill|Treadmill|🏃|2
+釣竿|fishing rod|Fishing rod|🎣|2
+野餐墊|picnic blanket|Picnic|🧺|2
+睡墊|camping mat|Sleeping pad|⛺|2
+登山杖|trekking pole|Trekking pole|🥾|2
+@music 音樂與樂器 🎵
+鋼琴|piano|Piano|🎹|1
+電子琴|keyboard instrument|Electronic keyboard|🎹|2
+吉他|guitar|Guitar|🎸|1
+烏克麗麗|ukulele|Ukulele|🎸|2
+小提琴|violin|Violin|🎻|2
+鼓|drum|Drum|🥁|1
+爵士鼓|drum kit|Drum kit|🥁|2
+小喇叭|trumpet|Trumpet|🎺|2
+薩克斯風|saxophone|Saxophone|🎷|2
+長笛|flute|Western concert flute|🪈|2
+直笛|recorder|Recorder (musical instrument)|🪈|2
+口琴|harmonica|Harmonica|🎵|2
+鈴鼓|tambourine|Tambourine|🪘|2
+三角鐵|triangle|Triangle (musical instrument)|🔺|2
+沙鈴|maracas|Maraca|🪇|2
+木琴|xylophone|Xylophone|🎵|1
+鈴鐺|bell|Bell|🔔|1
+口哨|whistle|Whistle|😗|2
+音符|music note|Musical note|🎵|2
+@colors 顏色與形狀 🎨
+紅色|red|-|🔴|1
+橘色|orange|-|🟠|1
+黃色|yellow|-|🟡|1
+綠色|green|-|🟢|1
+藍色|blue|-|🔵|1
+紫色|purple|-|🟣|1
+粉紅色|pink|-|🩷|1
+白色|white|-|⚪|1
+黑色|black|-|⚫|1
+咖啡色|brown|-|🟤|1
+灰色|gray|-|🩶|2
+金色|gold|-|🥇|2
+銀色|silver|-|🥈|2
+圓形|circle|-|⭕|1
+正方形|square|-|🟥|1
+三角形|triangle|-|🔺|1
+長方形|rectangle|-|▬|2
+星形|star shape|-|⭐|1
+愛心|heart|-|❤️|1
+菱形|diamond|-|🔷|2
+月亮形|crescent|-|🌙|2
+@holiday 節日與活動 🎉
+生日|birthday|-|🎂|1
+生日派對|birthday party|Party|🥳|2
+禮物|present|Gift|🎁|1
+蠟燭|candle|Candle|🕯️|1
+過年|Lunar New Year|Chinese New Year|🧧|1
+紅包|red envelope|Red envelope|🧧|1
+鞭炮|firecrackers|Firecracker|🧨|2
+舞龍舞獅|lion dance|Lion dance|🦁|2
+春聯|spring couplets|Spring couplet|🧧|2
+元宵節|Lantern Festival|Lantern Festival|🏮|2
+燈籠|lantern|Paper lantern|🏮|1
+端午節|Dragon Boat Festival|Dragon Boat Festival|🛶|2
+龍舟|dragon boat|Dragon boat|🛶|2
+中秋節|Mid-Autumn Festival|Mid-Autumn Festival|🥮|2
+烤肉|barbecue|Barbecue|🍖|1
+萬聖節|Halloween|Halloween|🎃|2
+南瓜燈|jack-o'-lantern|Jack-o'-lantern|🎃|2
+聖誕節|Christmas|Christmas|🎄|1
+聖誕樹|Christmas tree|Christmas tree|🎄|1
+煙火|fireworks|Fireworks|🎆|1
+婚禮|wedding|Wedding|💒|2
+合照|group photo|-|📸|2
+旅行|trip|Travel|🧳|2
+露營|camping|Camping|⛺|2
+@shopping 購物與錢 🛒
+錢|money|Money|💰|1
+硬幣|coin|Coin|🪙|1
+紙鈔|banknote|Banknote|💵|1
+信用卡|credit card|Credit card|💳|2
+收據|receipt|Receipt|🧾|2
+發票|uniform invoice|Uniform invoice|🧾|2
+購物車|shopping cart|Shopping cart|🛒|1
+購物籃|shopping basket|Shopping basket|🧺|2
+購物袋|shopping bag|Shopping bag|🛍️|1
+塑膠袋|plastic bag|Plastic bag|🛍️|2
+收銀機|cash register|Cash register|💰|2
+價格|price tag|Price tag|🏷️|2
+撲滿|piggy bank|Piggy bank|🐷|1
+提款機|ATM|Automated teller machine|🏧|2
+自動販賣機|vending machine|Vending machine|🥤|1
+包裹|package|Package delivery|📦|1
+信|letter|Letter (message)|✉️|2
+郵票|postage stamp|Postage stamp|📮|2
+罐頭|canned food|Canning|🥫|2
+整串衛生紙|toilet paper pack|-|🧻|2
+寶特瓶|plastic bottle|Plastic bottle|🧴|1
+鋁罐|aluminum can|Aluminum can|🥫|2
+玻璃瓶|glass bottle|Glass bottle|🍾|2

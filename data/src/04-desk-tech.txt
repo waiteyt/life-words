@@ -1,0 +1,175 @@
+@stationery 文具與書桌 ✏️
+鉛筆|pencil|Pencil|✏️|1
+原子筆|ballpoint pen|Ballpoint pen|🖊️|1
+彩色筆|marker|Marker pen|🖍️|1
+蠟筆|crayon|Crayon|🖍️|1
+色鉛筆|colored pencil|Colored pencil|✏️|1
+螢光筆|highlighter|Highlighter|🖍️|2
+白板筆|whiteboard marker|Whiteboard marker|🖊️|2
+簽字筆|felt-tip pen|Felt-tip pen|🖊️|2
+鋼筆|fountain pen|Fountain pen|🖋️|2
+毛筆|calligraphy brush|Ink brush|🖌️|2
+水彩|watercolor paint|Watercolor painting|🎨|2
+畫筆|paintbrush|Paintbrush|🖌️|2
+橡皮擦|eraser|Eraser|🧽|1
+削鉛筆機|pencil sharpener|Pencil sharpener|✏️|1
+尺|ruler|Ruler|📏|1
+三角板|set square|Set square|📐|2
+剪刀|scissors|Scissors|✂️|1
+膠水|glue|Adhesive|🧴|1
+口紅膠|glue stick|Glue stick|🧴|1
+膠帶|tape|Adhesive tape|🎞️|1
+紙膠帶|washi tape|Masking tape|🎞️|2
+釘書機|stapler|Stapler|📎|1
+釘書針|staples|Staple (fastener)|📎|2
+迴紋針|paper clip|Paper clip|📎|1
+長尾夾|binder clip|Binder clip|📎|2
+圖釘|thumbtack|Drawing pin|📌|2
+便利貼|sticky note|Post-it note|🗒️|1
+筆記本|notebook|Notebook|📓|1
+紙|paper|Paper|📄|1
+色紙|origami paper|Origami|🟥|1
+貼紙|sticker|Sticker|⭐|1
+信封|envelope|Envelope|✉️|2
+卡片|card|Greeting card|💌|2
+資料夾|folder|File folder|📁|2
+鉛筆盒|pencil case|Pencil case|✏️|1
+筆筒|pen holder|-|🖊️|2
+計算機|calculator|Calculator|🧮|1
+地球儀|globe|Globe|🌍|2
+放大鏡|magnifying glass|Magnifying glass|🔍|1
+書|book|Book|📖|1
+繪本|picture book|Picture book|📚|1
+字典|dictionary|Dictionary|📕|2
+報紙|newspaper|Newspaper|📰|2
+雜誌|magazine|Magazine|📰|2
+白板|whiteboard|Whiteboard|⬜|2
+黑板|blackboard|Blackboard|⬛|2
+粉筆|chalk|Chalk|🖍️|2
+書桌|desk|Desk|🪑|1
+辦公椅|office chair|Office chair|🪑|2
+檔案櫃|filing cabinet|Filing cabinet|🗄️|2
+碎紙機|paper shredder|Paper shredder|📄|2
+護貝機|laminator|Laminator|📄|2
+印章|stamp|Seal (East Asia)|🔖|2
+印泥|ink pad|Ink pad|🔴|2
+@tech 電腦與3C 💻
+電腦|computer|Desktop computer|🖥️|1
+筆記型電腦|laptop|Laptop|💻|1
+螢幕|monitor|Computer monitor|🖥️|1
+鍵盤|keyboard|Computer keyboard|⌨️|1
+滑鼠|mouse|Computer mouse|🖱️|1
+軌跡球|trackball|Trackball|🖱️|1
+滑鼠墊|mouse pad|Mousepad|🟦|2
+簡報筆|presentation clicker|Laser pointer|🔴|1
+雷射筆|laser pointer|Laser pointer|🔴|2
+手機|phone|Smartphone|📱|1
+平板|tablet|Tablet computer|📱|1
+耳機|headphones|Headphones|🎧|1
+無線耳機|earbuds|Earbuds|🎧|2
+喇叭|speaker|Loudspeaker|🔊|1
+麥克風|microphone|Microphone|🎤|1
+相機|camera|Camera|📷|1
+攝影機|video camera|Video camera|📹|2
+視訊鏡頭|webcam|Webcam|📷|2
+印表機|printer|Printer (computing)|🖨️|1
+掃描器|scanner|Image scanner|🖨️|2
+投影機|projector|Video projector|📽️|2
+充電器|charger|Battery charger|🔌|1
+充電線|charging cable|USB cable|🔌|1
+行動電源|power bank|Power bank|🔋|1
+電池|battery|Battery (electricity)|🔋|1
+隨身碟|USB flash drive|USB flash drive|💾|2
+硬碟|hard drive|Hard disk drive|💽|2
+記憶卡|memory card|Memory card|💾|2
+路由器|router|Router (computing)|📶|2
+網路線|network cable|Ethernet cable|🔌|2
+插頭|plug|AC power plugs and sockets|🔌|2
+主機|computer tower|Computer case|🖥️|2
+電競椅|gaming chair|Gaming chair|🪑|2
+遊戲手把|game controller|Game controller|🎮|1
+遊戲機|game console|Video game console|🎮|2
+手機殼|phone case|Mobile phone accessories|📱|2
+自拍棒|selfie stick|Selfie stick|🤳|2
+腳架|tripod|Tripod (photography)|📷|2
+手寫筆|stylus|Stylus|🖊️|2
+智慧手錶|smartwatch|Smartwatch|⌚|2
+智慧音箱|smart speaker|Smart speaker|🔊|2
+無人機|drone|Unmanned aerial vehicle|🛸|2
+機器人|robot|Robot|🤖|1
+電子書|e-reader|E-reader|📖|2
+收音機|radio|Radio receiver|📻|2
+錄音機|recorder|Tape recorder|📼|2
+手電筒|flashlight|Flashlight|🔦|1
+電子鎖|smart lock|Electronic lock|🔐|2
+QR碼|QR code|QR code|🔳|2
+條碼|barcode|Barcode|🔲|2
+加密貨幣|cryptocurrency|Cryptocurrency|🪙|2
+股票|stock chart|Stock market|📈|2
+@tools 工具與五金 🔧
+鐵鎚|hammer|Hammer|🔨|1
+螺絲起子|screwdriver|Screwdriver|🪛|1
+扳手|wrench|Wrench|🔧|1
+鉗子|pliers|Pliers|🗜️|2
+螺絲|screw|Screw|🔩|1
+釘子|nail|Nail (fastener)|📌|1
+螺帽|nut|Nut (hardware)|🔩|2
+鋸子|saw|Saw|🪚|2
+電鑽|electric drill|Drill|🔧|1
+捲尺|tape measure|Tape measure|📏|1
+水平儀|spirit level|Spirit level|📏|2
+梯子|ladder|Ladder|🪜|1
+工具箱|toolbox|Toolbox|🧰|1
+美工刀|utility knife|Utility knife|🔪|2
+膠槍|glue gun|Hot-melt adhesive|🔫|2
+磁鐵|magnet|Magnet|🧲|1
+繩子|rope|Rope|🪢|1
+鐵絲|wire|Wire|〰️|2
+鍊子|chain|Chain|⛓️|2
+油漆|paint|Paint|🎨|2
+油漆刷|paint brush|Paintbrush|🖌️|2
+砂紙|sandpaper|Sandpaper|🟫|2
+手推車|hand truck|Hand truck|🛒|2
+獨輪車|wheelbarrow|Wheelbarrow|🛒|2
+鏟子|shovel|Shovel|⛏️|1
+十字鎬|pickaxe|Pickaxe|⛏️|2
+斧頭|axe|Axe|🪓|2
+澆水壺|watering can|Watering can|🚿|1
+水管|garden hose|Garden hose|🚿|2
+園藝剪刀|pruning shears|Pruning shears|✂️|2
+3D印表機|3D printer|3D printing|🖨️|2
+線材|3D printer filament|3D printing filament|🧵|2
+針|needle|Sewing needle|🪡|2
+線|thread|Thread (yarn)|🧵|2
+縫紉機|sewing machine|Sewing machine|🧵|2
+安全別針|safety pin|Safety pin|🧷|2
+紙箱|cardboard box|Cardboard box|📦|1
+泡泡紙|bubble wrap|Bubble wrap|🫧|2
+@school 學校與遊樂場 🏫
+學校|school|School|🏫|1
+幼兒園|kindergarten|Kindergarten|🏫|1
+教室|classroom|Classroom|🏫|1
+操場|playground field|Playground|🏃|2
+溜滑梯|slide|Playground slide|🛝|1
+盪鞦韆|swing|Swing (seat)|🪢|1
+蹺蹺板|seesaw|Seesaw|⚖️|1
+沙坑|sandbox|Sandpit|🏖️|1
+攀爬架|climbing frame|Jungle gym|🧗|2
+旋轉木馬|carousel|Carousel|🎠|2
+摩天輪|Ferris wheel|Ferris wheel|🎡|2
+雲霄飛車|roller coaster|Roller coaster|🎢|2
+跳床|trampoline|Trampoline|🤸|2
+球池|ball pit|Ball pit|🔴|1
+遊樂場|playground|Playground|🛝|1
+遊樂園|amusement park|Amusement park|🎡|2
+畢業典禮|graduation|Graduation|🎓|2
+獎狀|certificate|Certificate of merit|📜|2
+獎盃|trophy|Trophy|🏆|2
+獎牌|medal|Medal|🏅|2
+聯絡簿|communication book|-|📒|1
+名牌|name tag|Name tag|📛|2
+點心時間|snack time|-|🍪|1
+午睡|nap|Nap|😴|1
+校車|school bus|School bus|🚌|1
+鐘聲|school bell|Bell|🔔|2
+桌遊|board game|Board game|🎲|2

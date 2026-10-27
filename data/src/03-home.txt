@@ -1,0 +1,226 @@
+@kitchen 廚房與餐具 🍳
+碗|bowl|Bowl|🥣|1
+盤子|plate|Plate (dishware)|🍽️|1
+筷子|chopsticks|Chopsticks|🥢|1
+湯匙|spoon|Spoon|🥄|1
+叉子|fork|Fork|🍴|1
+刀子|knife|Kitchen knife|🔪|1
+杯子|cup|Cup|🥤|1
+馬克杯|mug|Mug|☕|2
+吸管|straw|Drinking straw|🥤|1
+水壺|water bottle|Water bottle|🧴|1
+奶瓶|baby bottle|Baby bottle|🍼|1
+保溫杯|thermos|Vacuum flask|🧴|2
+便當盒|lunch box|Lunchbox|🍱|1
+餐巾紙|napkin|Napkin|🧻|1
+圍兜|bib|Bib (garment)|👶|1
+兒童餐椅|high chair|High chair|🪑|2
+鍋子|pot|Cooking pot|🍲|1
+平底鍋|frying pan|Frying pan|🍳|1
+炒菜鍋|wok|Wok|🍳|2
+鍋鏟|spatula|Spatula|🥄|2
+湯勺|ladle|Ladle (spoon)|🥄|2
+砧板|cutting board|Cutting board|🪵|2
+菜刀|cleaver|Cleaver|🔪|2
+削皮刀|peeler|Peeler|🥔|2
+開罐器|can opener|Can opener|🥫|2
+廚房剪刀|kitchen scissors|Kitchen scissors|✂️|2
+夾子|tongs|Tongs|🥢|2
+打蛋器|whisk|Whisk|🥚|2
+量杯|measuring cup|Measuring cup|🥛|2
+濾網|strainer|Sieve|🥣|2
+擀麵棍|rolling pin|Rolling pin|🥖|2
+烤盤|baking tray|Sheet pan|🍪|2
+冰箱|refrigerator|Refrigerator|🧊|1
+冷凍庫|freezer|Freezer|❄️|2
+電鍋|rice cooker|Rice cooker|🍚|1
+微波爐|microwave|Microwave oven|📟|1
+烤箱|oven|Oven|🔥|1
+烤麵包機|toaster|Toaster|🍞|2
+氣炸鍋|air fryer|Air fryer|🍟|2
+熱水瓶|electric kettle|Electric kettle|♨️|1
+快煮壺|kettle|Kettle|♨️|2
+果汁機|blender|Blender|🧃|2
+咖啡機|coffee machine|Coffeemaker|☕|2
+瓦斯爐|gas stove|Gas stove|🔥|2
+電磁爐|induction cooker|Induction cooking|🔥|2
+抽油煙機|range hood|Kitchen hood|💨|2
+洗碗機|dishwasher|Dishwasher|🍽️|2
+水槽|sink|Sink|🚰|1
+水龍頭|faucet|Tap (valve)|🚰|1
+菜瓜布|scrub sponge|Sponge (tool)|🧽|2
+洗碗精|dish soap|Dishwashing liquid|🧴|2
+保鮮膜|plastic wrap|Plastic wrap|🎞️|2
+鋁箔紙|aluminum foil|Aluminium foil|🪙|2
+保鮮盒|food container|Food storage container|📦|2
+飲水機|water dispenser|Water dispenser|🚰|1
+濾水壺|water filter|Water filter|💧|2
+垃圾桶|trash can|Waste container|🗑️|1
+垃圾袋|trash bag|Bin bag|🗑️|2
+回收桶|recycling bin|Recycling bin|♻️|2
+餐桌|dining table|Table (furniture)|🪑|1
+圍裙|apron|Apron|🧑‍🍳|2
+隔熱手套|oven mitt|Oven glove|🧤|2
+牙籤|toothpick|Toothpick|🦷|2
+托盤|tray|Tray|🍽️|2
+@living 客廳與家具家電 🛋️
+沙發|sofa|Couch|🛋️|1
+桌子|table|Table (furniture)|🪑|1
+椅子|chair|Chair|🪑|1
+小板凳|stool|Stool (seat)|🪑|1
+電視|television|Television set|📺|1
+遙控器|remote control|Remote control|📱|1
+電燈|light|Light fixture|💡|1
+燈泡|light bulb|Incandescent light bulb|💡|2
+檯燈|desk lamp|Lamp (electrical)|💡|2
+開關|light switch|Light switch|🔘|1
+插座|power outlet|AC power plugs and sockets|🔌|1
+延長線|power strip|Power strip|🔌|2
+電風扇|electric fan|Electric fan|🌀|1
+冷氣|air conditioner|Air conditioning|❄️|1
+除濕機|dehumidifier|Dehumidifier|💧|2
+空氣清淨機|air purifier|Air purifier|💨|2
+暖爐|heater|Space heater|🔥|2
+掃地機器人|robot vacuum|Robotic vacuum cleaner|🤖|1
+吸塵器|vacuum cleaner|Vacuum cleaner|🧹|1
+時鐘|clock|Clock|🕰️|1
+鬧鐘|alarm clock|Alarm clock|⏰|1
+窗戶|window|Window|🪟|1
+窗簾|curtain|Curtain|🪟|1
+門|door|Door|🚪|1
+門鈴|doorbell|Doorbell|🔔|2
+鑰匙|key|Key (lock)|🔑|1
+鎖|lock|Lock (security device)|🔒|2
+樓梯|stairs|Stairs|🪜|1
+地板|floor|Floor|🟫|2
+牆壁|wall|Wall|🧱|2
+天花板|ceiling|Ceiling|⬜|2
+陽台|balcony|Balcony|🏠|2
+地毯|rug|Carpet|🟥|2
+抱枕|cushion|Cushion|🛋️|1
+書櫃|bookshelf|Bookcase|📚|1
+櫃子|cabinet|Cabinetry|🗄️|2
+抽屜|drawer|Drawer (furniture)|🗄️|2
+鞋櫃|shoe cabinet|-|👟|2
+花瓶|vase|Vase|🏺|2
+盆栽|potted plant|Houseplant|🪴|1
+相框|photo frame|Picture frame|🖼️|2
+鏡子|mirror|Mirror|🪞|1
+日曆|calendar|Calendar|📅|2
+衛生紙|tissue|Facial tissue|🧻|1
+面紙盒|tissue box|-|🧻|2
+電話|telephone|Telephone|☎️|2
+對講機|intercom|Intercom|📞|2
+監視器|security camera|Closed-circuit television camera|📹|2
+滅火器|fire extinguisher|Fire extinguisher|🧯|2
+電梯|elevator|Elevator|🛗|1
+信箱|mailbox|Letter box|📫|2
+雨傘架|umbrella stand|Umbrella stand|☂️|2
+曬衣架|drying rack|Clothes horse|👕|2
+衣架|hanger|Clothes hanger|👕|1
+洗衣機|washing machine|Washing machine|🧺|1
+烘衣機|clothes dryer|Clothes dryer|🧺|2
+洗衣籃|laundry basket|Laundry basket|🧺|2
+熨斗|iron|Clothes iron|👔|2
+曬衣夾|clothespin|Clothespin|📎|2
+@bedroom 臥室 🛏️
+床|bed|Bed|🛏️|1
+枕頭|pillow|Pillow|🛏️|1
+棉被|blanket|Blanket|🛌|1
+床單|bed sheet|Bed sheet|🛏️|2
+床墊|mattress|Mattress|🛏️|2
+嬰兒床|crib|Infant bed|🛏️|2
+衣櫃|wardrobe|Wardrobe|🚪|1
+夜燈|night light|Nightlight|🌙|1
+睡袋|sleeping bag|Sleeping bag|🛌|2
+蚊帳|mosquito net|Mosquito net|🦟|2
+@clothes 衣服與配件 👕
+衣服|clothes|Clothing|👕|1
+T恤|T-shirt|T-shirt|👕|1
+襯衫|shirt|Dress shirt|👔|2
+褲子|pants|Trousers|👖|1
+短褲|shorts|Shorts|🩳|1
+牛仔褲|jeans|Jeans|👖|2
+裙子|skirt|Skirt|👗|1
+洋裝|dress|Dress|👗|1
+外套|jacket|Jacket|🧥|1
+毛衣|sweater|Sweater|🧶|1
+背心|vest|Vest|🎽|2
+睡衣|pajamas|Pajamas|🛌|1
+內衣|undershirt|Undershirt|🎽|2
+內褲|underwear|Undergarment|🩲|1
+尿布|diaper|Diaper|👶|1
+泳衣|swimsuit|Swimsuit|👙|1
+雨衣|raincoat|Raincoat|🧥|1
+制服|uniform|School uniform|👔|1
+襪子|socks|Sock|🧦|1
+鞋子|shoes|Shoe|👟|1
+運動鞋|sneakers|Sneakers|👟|1
+拖鞋|slippers|Slipper|🩴|1
+涼鞋|sandals|Sandal|👡|1
+雨鞋|rain boots|Wellington boot|👢|1
+靴子|boots|Boot|👢|2
+帽子|hat|Hat|👒|1
+棒球帽|baseball cap|Baseball cap|🧢|2
+安全帽|helmet|Motorcycle helmet|⛑️|1
+手套|gloves|Glove|🧤|1
+圍巾|scarf|Scarf|🧣|1
+口罩|face mask|Surgical mask|😷|1
+眼鏡|glasses|Glasses|👓|1
+太陽眼鏡|sunglasses|Sunglasses|🕶️|1
+皮帶|belt|Belt (clothing)|👖|2
+領帶|tie|Necktie|👔|2
+手錶|watch|Watch|⌚|1
+項鍊|necklace|Necklace|📿|2
+戒指|ring|Ring (jewellery)|💍|2
+耳環|earrings|Earring|💎|2
+手環|bracelet|Bracelet|📿|2
+髮夾|hair clip|Hair clip|🎀|1
+髮圈|hair tie|Scrunchie|🎀|1
+蝴蝶結|bow|Bow (decoration)|🎀|2
+鈕扣|button|Button|🔘|2
+拉鍊|zipper|Zipper|🤐|2
+口袋|pocket|Pocket|👖|2
+包包|bag|Handbag|👜|1
+書包|school bag|Backpack|🎒|1
+背包|backpack|Backpack|🎒|2
+錢包|wallet|Wallet|👛|1
+雨傘|umbrella|Umbrella|☂️|1
+@bathroom 浴室與清潔 🛁
+馬桶|toilet|Toilet|🚽|1
+兒童馬桶|potty|Potty chair|🚽|2
+浴缸|bathtub|Bathtub|🛁|1
+蓮蓬頭|shower head|Shower|🚿|1
+洗手台|bathroom sink|Sink|🚰|1
+牙刷|toothbrush|Toothbrush|🪥|1
+牙膏|toothpaste|Toothpaste|🪥|1
+漱口杯|rinse cup|-|🥤|2
+牙線|dental floss|Dental floss|🦷|2
+電動牙刷|electric toothbrush|Electric toothbrush|🪥|2
+肥皂|soap|Soap|🧼|1
+洗手乳|hand soap|Liquid soap|🧴|1
+洗髮精|shampoo|Shampoo|🧴|1
+沐浴乳|body wash|Shower gel|🧴|1
+潤髮乳|conditioner|Hair conditioner|🧴|2
+毛巾|towel|Towel|🧻|1
+浴巾|bath towel|Towel|🧻|2
+浴帽|shower cap|Shower cap|🚿|2
+洗澡玩具|bath toy|Rubber duck|🦆|1
+梳子|comb|Comb|🪮|1
+吹風機|hair dryer|Hair dryer|💨|1
+刮鬍刀|razor|Razor|🪒|2
+指甲剪|nail clipper|Nail clipper|✂️|2
+乳液|lotion|Lotion|🧴|2
+防曬乳|sunscreen|Sunscreen|🧴|2
+棉花棒|cotton swab|Cotton swab|🦯|2
+衛生紙捲|toilet paper|Toilet paper|🧻|1
+濕紙巾|wet wipes|Wet wipe|🧻|1
+體重計|bathroom scale|Weighing scale|⚖️|2
+掃把|broom|Broom|🧹|1
+畚箕|dustpan|Dustpan|🧹|2
+拖把|mop|Mop|🧹|1
+水桶|bucket|Bucket|🪣|1
+抹布|rag|Rag|🧽|2
+清潔劑|cleaner|Cleaning agent|🧴|2
+橡膠手套|rubber gloves|Rubber glove|🧤|2
+馬桶刷|toilet brush|Toilet brush|🚽|2
