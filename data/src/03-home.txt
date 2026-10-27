@@ -18,7 +18,7 @@
 鍋子|pot|Cooking pot|🍲|1
 平底鍋|frying pan|Frying pan|🍳|1
 炒菜鍋|wok|Wok|🍳|2
-鍋鏟|spatula|Spatula|🥄|2
+鍋鏟|spatula|-|🥄|2
 湯勺|ladle|Ladle (spoon)|🥄|2
 砧板|cutting board|Cutting board|🪵|2
 菜刀|cleaver|Cleaver|🔪|2
@@ -40,7 +40,7 @@
 氣炸鍋|air fryer|Air fryer|🍟|2
 熱水瓶|electric kettle|Electric kettle|♨️|1
 快煮壺|kettle|Kettle|♨️|2
-果汁機|blender|Blender|🧃|2
+果汁機|blender|Blender (appliance)|🧃|2
 咖啡機|coffee machine|Coffeemaker|☕|2
 瓦斯爐|gas stove|Gas stove|🔥|2
 電磁爐|induction cooker|Induction cooking|🔥|2
@@ -72,14 +72,14 @@
 遙控器|remote control|Remote control|📱|1
 電燈|light|Light fixture|💡|1
 燈泡|light bulb|Incandescent light bulb|💡|2
-檯燈|desk lamp|Lamp (electrical)|💡|2
+檯燈|desk lamp|Desk lamp|💡|2
 開關|light switch|Light switch|🔘|1
 插座|power outlet|AC power plugs and sockets|🔌|1
 延長線|power strip|Power strip|🔌|2
 電風扇|electric fan|Electric fan|🌀|1
 冷氣|air conditioner|Air conditioning|❄️|1
 除濕機|dehumidifier|Dehumidifier|💧|2
-空氣清淨機|air purifier|Air purifier|💨|2
+空氣清淨機|air purifier|-|💨|2
 暖爐|heater|Space heater|🔥|2
 掃地機器人|robot vacuum|Robotic vacuum cleaner|🤖|1
 吸塵器|vacuum cleaner|Vacuum cleaner|🧹|1
@@ -130,7 +130,7 @@
 床單|bed sheet|Bed sheet|🛏️|2
 床墊|mattress|Mattress|🛏️|2
 嬰兒床|crib|Infant bed|🛏️|2
-衣櫃|wardrobe|Wardrobe|🚪|1
+衣櫃|wardrobe|-|🚪|1
 夜燈|night light|Nightlight|🌙|1
 睡袋|sleeping bag|Sleeping bag|🛌|2
 蚊帳|mosquito net|Mosquito net|🦟|2
@@ -139,13 +139,13 @@
 T恤|T-shirt|T-shirt|👕|1
 襯衫|shirt|Dress shirt|👔|2
 褲子|pants|Trousers|👖|1
-短褲|shorts|Shorts|🩳|1
+短褲|shorts|Bermuda shorts|🩳|1
 牛仔褲|jeans|Jeans|👖|2
 裙子|skirt|Skirt|👗|1
 洋裝|dress|Dress|👗|1
 外套|jacket|Jacket|🧥|1
 毛衣|sweater|Sweater|🧶|1
-背心|vest|Vest|🎽|2
+背心|vest|Waistcoat|🎽|2
 睡衣|pajamas|Pajamas|🛌|1
 內衣|undershirt|Undershirt|🎽|2
 內褲|underwear|Undergarment|🩲|1
@@ -177,7 +177,7 @@ T恤|T-shirt|T-shirt|👕|1
 手環|bracelet|Bracelet|📿|2
 髮夾|hair clip|Hair clip|🎀|1
 髮圈|hair tie|Scrunchie|🎀|1
-蝴蝶結|bow|Bow (decoration)|🎀|2
+蝴蝶結|bow|Ribbon|🎀|2
 鈕扣|button|Button|🔘|2
 拉鍊|zipper|Zipper|🤐|2
 口袋|pocket|Pocket|👖|2
@@ -220,7 +220,7 @@ T恤|T-shirt|T-shirt|👕|1
 畚箕|dustpan|Dustpan|🧹|2
 拖把|mop|Mop|🧹|1
 水桶|bucket|Bucket|🪣|1
-抹布|rag|Rag|🧽|2
+抹布|rag|Dishcloth|🧽|2
 清潔劑|cleaner|Cleaning agent|🧴|2
 橡膠手套|rubber gloves|Rubber glove|🧤|2
 馬桶刷|toilet brush|Toilet brush|🚽|2

@@ -171,6 +171,38 @@ def build_taigi(words, taigi_path):
         stats['auto'] += 1
     return stats
 
+SUTIAN = ROOT / 'data' / 'sutian-ids.json'
+
+def apply_sutian(words):
+    """教育部辭典網站（sutian）的詞目編號，用來播放官方錄音。
+    sutian-ids.json 是 {台語漢字: [{id, lo}]}，由 tools/fetch_sutian_ids.js 在辭典網站上產生。"""
+    if not SUTIAN.exists():
+        return
+    sut = json.loads(SUTIAN.read_text(encoding='utf-8'))
+    norm = lambda x: re.sub(r'[\s\-]', '', unicodedata.normalize('NFC', x or '').lower())
+    def pick(han, lo):
+        cands = [c for c in sut.get(han, []) if c.get('audio')]
+        hit = next((c for c in cands if norm(c['lo']) == norm(lo)), None)
+        if not hit and len(cands) == 1:
+            hit = cands[0]   # 只有一個詞目時，以辭典讀音為準
+        return hit
+    n = 0
+    for w in words:
+        tw = w.get('tw')
+        if not tw:
+            continue
+        tw.pop('id', None)
+        hit = pick(tw['han'], tw.get('lo'))
+        if hit:
+            tw['sid'] = hit['id']; n += 1
+            tw['lo'] = hit['lo'] or tw.get('lo')   # 文字跟錄音一致
+        for a in tw.get('alt', []):
+            a.pop('id', None)
+            h2 = pick(a['han'], a.get('lo'))
+            if h2:
+                a['sid'] = h2['id']
+    print(f'有官方錄音：{n}', file=sys.stderr)
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--moedict', required=True)
@@ -185,6 +217,7 @@ def main():
         w['id'] = 'w%04d' % (i + 1)
     build_zhuyin(words, a.moedict)
     stats = build_taigi(words, a.taigi)
+    apply_sutian(words)
     for c in cats:
         c['count'] = sum(1 for w in words if w['cat'] == c['id'])
     keys = ['id','zh','zhuyin','en','tw','cat','level','emoji','wiki']

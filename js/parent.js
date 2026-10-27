@@ -4,7 +4,7 @@ import {
   getSettings, saveSettings, getProgress, getWordPrefs, setWordPref,
   saveCustomWord, deleteCustomWord, putBlob, deleteBlob, exportBackup, importBackup,
 } from './store.js';
-import { say, listVoices, tts, recordClip, taigiAudioUrls } from './speech.js';
+import { say, listVoices, tts, recordClip } from './speech.js';
 import { imageFor, renderImage, searchCommons, prefetchWiki, forgetPhoto, sourceLink } from './images.js';
 
 const app = document.getElementById('app');
@@ -132,7 +132,7 @@ async function drawList(panel) {
       <div class="word-info">
         <div class="wz">${esc(w.zh)} <small>${esc(w.zhuyin || '')}</small></div>
         <div class="we">${esc(w.en || '')}</div>
-        <div class="wt">${w.tw ? `台：${esc(w.tw.han)} ${esc(w.tw.lo || '')}${w.tw.id && taigiAudioUrls(w.tw.id).length ? ' 🔈' : ''}${w.tw.src === 'auto' ? ' <span class="badge">辭典對照</span>' : ''}` : '<span class="muted">沒有台語</span>'}</div>
+        <div class="wt">${w.tw ? `台：${esc(w.tw.han)} ${esc(w.tw.lo || '')}${w.tw.sid ? ' 🔈' : ''}${w.tw.src === 'auto' ? ' <span class="badge">辭典對照</span>' : ''}` : '<span class="muted">沒有台語</span>'}</div>
       </div>
       <div class="word-acts">
         <button class="small" data-act="play-zh">中</button>
@@ -228,18 +228,19 @@ function editTaigi(w, after) {
     <form method="dialog" class="form">
       <label>台語漢字 <input id="han" value="${esc(w.tw?.han || '')}" placeholder="例：跤踏車"></label>
       <label>台羅拼音 <input id="lo" value="${esc(w.tw?.lo || '')}" placeholder="例：kha-ta̍h-tshia"></label>
-      ${w.tw?.alt?.length ? `<p class="hint">辭典裡的其他說法：${w.tw.alt.map(a => `<button type="button" class="chip alt" data-han="${esc(a.han)}" data-lo="${esc(a.lo)}" data-id="${a.id}">${esc(a.han)} ${esc(a.lo)}</button>`).join(' ')}</p>` : ''}
+      ${w.tw?.alt?.length ? `<p class="hint">辭典裡的其他說法：${w.tw.alt.map(a => `<button type="button" class="chip alt" data-han="${esc(a.han)}" data-lo="${esc(a.lo)}" data-sid="${a.sid || ''}">${esc(a.han)} ${esc(a.lo)}</button>`).join(' ')}</p>` : ''}
       <p class="hint">自己改的台語沒有辭典錄音，記得按「🎙台」錄一次。清空就代表不用台語。</p>
       <div class="dlg-acts"><button class="primary" value="save">儲存</button><button class="secondary" value="cancel">取消</button></div>
     </form>`);
   let pickedId = null;
   d.querySelectorAll('.alt').forEach(b => b.onclick = () => {
-    d.querySelector('#han').value = b.dataset.han; d.querySelector('#lo').value = b.dataset.lo; pickedId = Number(b.dataset.id);
+    d.querySelector('#han').value = b.dataset.han; d.querySelector('#lo').value = b.dataset.lo; pickedId = Number(b.dataset.sid) || null;
   });
   d.addEventListener('close', () => {
     if (d.returnValue !== 'save') return;
     const han = d.querySelector('#han').value.trim(), lo = d.querySelector('#lo').value.trim();
-    const tw = han ? { han, lo, id: pickedId, src: 'parent' } : null;
+    const keep = w.tw && w.tw.han === han ? w.tw.sid : null;
+    const tw = han ? { han, lo, sid: pickedId || keep || null, src: 'parent' } : null;
     w.tw = tw;
     setWordPref(w.id, { tw });
     if (w.custom) saveCustomWord(stripRuntime(w));

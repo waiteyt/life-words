@@ -1,5 +1,5 @@
 @health 醫院與健康 🏥
-體溫計|thermometer|Medical thermometer|🌡️|1
+體溫計|thermometer|Thermometer|🌡️|1
 OK繃|bandage|Adhesive bandage|🩹|1
 藥|medicine|Medication|💊|1
 藥水|liquid medicine|Syrup|🧪|1
@@ -21,7 +21,7 @@ OK繃|bandage|Adhesive bandage|🩹|1
 牙套|braces|Dental braces|🦷|2
 石膏|cast|Orthopedic cast|🦴|2
 X光|X-ray|Radiography|☢️|2
-血壓計|blood pressure monitor|Sphygmomanometer|🩺|2
+血壓計|blood pressure monitor|-|🩺|2
 救護箱|first aid kit|First aid kit|🧰|2
 咳嗽|cough|-|😷|1
 發燒|fever|-|🤒|1
@@ -51,7 +51,7 @@ X光|X-ray|Radiography|☢️|2
 釣竿|fishing rod|Fishing rod|🎣|2
 野餐墊|picnic blanket|Picnic|🧺|2
 睡墊|camping mat|Sleeping pad|⛺|2
-登山杖|trekking pole|Trekking pole|🥾|2
+登山杖|trekking pole|-|🥾|2
 @music 音樂與樂器 🎵
 鋼琴|piano|Piano|🎹|1
 電子琴|keyboard instrument|Electronic keyboard|🎹|2
@@ -71,7 +71,7 @@ X光|X-ray|Radiography|☢️|2
 木琴|xylophone|Xylophone|🎵|1
 鈴鐺|bell|Bell|🔔|1
 口哨|whistle|Whistle|😗|2
-音符|music note|Musical note|🎵|2
+音符|music note|-|🎵|2
 @colors 顏色與形狀 🎨
 紅色|red|-|🔴|1
 橘色|orange|-|🟠|1
@@ -125,9 +125,9 @@ X光|X-ray|Radiography|☢️|2
 紙鈔|banknote|Banknote|💵|1
 信用卡|credit card|Credit card|💳|2
 收據|receipt|Receipt|🧾|2
-發票|uniform invoice|Uniform invoice|🧾|2
+發票|uniform invoice|-|🧾|2
 購物車|shopping cart|Shopping cart|🛒|1
-購物籃|shopping basket|Shopping basket|🧺|2
+購物籃|shopping basket|Basket|🧺|2
 購物袋|shopping bag|Shopping bag|🛍️|1
 塑膠袋|plastic bag|Plastic bag|🛍️|2
 收銀機|cash register|Cash register|💰|2

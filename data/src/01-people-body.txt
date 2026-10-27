@@ -35,7 +35,7 @@
 司機|driver|Driving|🧑‍✈️|1
 公車司機|bus driver|Bus driver|🚌|2
 廚師|chef|Chef|🧑‍🍳|1
-店員|clerk|Retail clerk|🧑‍💼|2
+店員|clerk|-|🧑‍💼|2
 收銀員|cashier|Cashier|💵|2
 郵差|mail carrier|Mail carrier|📮|1
 清潔隊員|garbage collector|Waste collector|🚛|1
@@ -82,7 +82,7 @@
 指甲|fingernail|Nail (anatomy)|💅|2
 大拇指|thumb|Thumb|👍|2
 手臂|arm|-|💪|1
-手肘|elbow|Elbow|💪|2
+手肘|elbow|-|💪|2
 肚子|belly|-|🤰|1
 肚臍|belly button|-|⭕|2
 背|back|-|🧍|2

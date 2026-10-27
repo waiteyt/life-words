@@ -65,12 +65,10 @@ function playUrl(url) {
   });
 }
 
-// 教育部台語辭典錄音（萌典使用的同一份音檔）
-const TW_AUDIO_HOST = 'https://1763c5ee9859e0316ed6-db85b55a6a3fbe33f09b9245992383bd.ssl.cf1.rackcdn.com/';
-export function taigiAudioUrls(id) {
-  if (!id || (id > 20000 && id < 50000)) return [];
-  const base = String(100000 + Number(id)).slice(1);
-  return [TW_AUDIO_HOST + base + '.mp3', TW_AUDIO_HOST + base + '.ogg'];
+// 教育部《臺灣台語常用詞辭典》網站的詞目錄音
+export function taigiAudioUrls(sid) {
+  if (!sid) return [];
+  return [`https://sutian.moe.edu.tw/media/senn/mp3/imtong/subak/${Math.floor(sid / 1000)}/${sid}.mp3`];
 }
 
 // 能不能唸出某個詞的某種語言
@@ -78,7 +76,7 @@ export function canSay(word, lang, recKeys) {
   if (recKeys && recKeys.has(`${word.id}:rec:${lang}`)) return true;
   if (lang === 'zh') return !!word.zh;
   if (lang === 'en') return !!word.en;
-  if (lang === 'tw') return !!(word.tw && taigiAudioUrls(word.tw.id).length);
+  if (lang === 'tw') return !!(word.tw && taigiAudioUrls(word.tw.sid).length);
   return false;
 }
 
@@ -94,7 +92,7 @@ export async function say(word, lang) {
   if (lang === 'zh') return tts(word.zh, 'zh');
   if (lang === 'en') return tts(word.en, 'en');
   if (lang === 'tw' && word.tw) {
-    for (const u of taigiAudioUrls(word.tw.id)) { if (await playUrl(u)) return true; }
+    for (const u of taigiAudioUrls(word.tw.sid)) { if (await playUrl(u)) return true; }
   }
   return false;
 }

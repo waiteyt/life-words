@@ -66,7 +66,7 @@
 香菜|cilantro|Coriander|🌿|2
 九層塔|basil|Thai basil|🌿|2
 生菜|lettuce|Lettuce|🥬|2
-蘆筍|asparagus|Asparagus|🌱|2
+蘆筍|asparagus|-|🌱|2
 竹筍|bamboo shoot|Bamboo shoot|🎋|2
 豆芽菜|bean sprouts|Bean sprout|🌱|2
 四季豆|green beans|Green bean|🫛|2
@@ -126,7 +126,7 @@
 牛肉麵|beef noodle soup|Beef noodle soup|🍜|1
 滷肉飯|braised pork rice|Lu rou fan|🍚|1
 餛飩|wonton|Wonton|🥟|2
-鍋貼|potstickers|Guotie|🥟|2
+鍋貼|potstickers|-|🥟|2
 小籠包|soup dumplings|Xiaolongbao|🥟|1
 燒賣|shumai|Shumai|🥟|2
 粽子|rice dumpling|Zongzi|🍙|2
@@ -134,7 +134,7 @@
 蘿蔔糕|turnip cake|Turnip cake|⬜|2
 油條|fried dough stick|Youtiao|🥖|2
 燒餅|sesame flatbread|Shaobing|🫓|2
-蔥油餅|scallion pancake|Scallion pancake|🫓|2
+蔥油餅|scallion pancake|Cong you bing|🫓|2
 鬆餅|pancake|Pancake|🥞|1
 可頌|croissant|Croissant|🥐|2
 貝果|bagel|Bagel|🥯|2
@@ -155,7 +155,7 @@
 肉粽|meat rice dumpling|Zongzi|🍙|2
 豆花|tofu pudding|Douhua|🍮|1
 刨冰|shaved ice|Shaved ice|🍧|1
-芒果冰|mango shaved ice|Baobing|🍧|2
+芒果冰|mango shaved ice|Shaved ice|🍧|2
 雞蛋糕|egg cake|Egg waffle|🧇|1
 車輪餅|wheel cake|Imagawayaki|🥮|2
 糖葫蘆|candied fruit skewer|Tanghulu|🍡|2
@@ -194,7 +194,7 @@
 花生醬|peanut butter|Peanut butter|🥜|2
 蜂蜜|honey|Honey|🍯|1
 花生|peanut|Peanut|🥜|2
-堅果|nuts|Nut (fruit)|🌰|2
+堅果|nuts|Mixed nuts|🌰|2
 葡萄乾|raisins|Raisin|🍇|2
 水|water|Drinking water|💧|1
 牛奶|milk|Milk|🥛|1
@@ -226,4 +226,4 @@
 牛肉|beef|Beef|🥩|2
 雞肉|chicken meat|Chicken as food|🍗|2
 魚丸|fish ball|Fish ball|⚪|2
-貢丸|pork ball|Gongwan|⚪|2
+貢丸|pork ball|Pork ball|⚪|2

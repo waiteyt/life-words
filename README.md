@@ -12,7 +12,7 @@
 ## 詞庫
 
 - 第一、二期共 1,431 個詞，42 個分類（家人、身體、情緒、食物、台灣小吃、廚房、3C、工具、交通、地方、動物、植物、天氣、醫院……）。
-- 每個詞有中文、注音、英文、emoji，867 個詞有台語漢字與台羅，其中 838 個可以播放教育部台語辭典的真人錄音。
+- 每個詞有中文、注音、英文、emoji，867 個詞有台語漢字與台羅，其中 820 個可以播放教育部台語辭典的真人錄音。
 - 首頁可以選「常見的」（第一期）或「全部」。
 
 ### 我們家的東西
@@ -33,7 +33,7 @@
 |---|---|---|
 | 注音 | 教育部《重編國語辭典修訂本》，經 [g0v/moedict-data](https://github.com/g0v/moedict-data) 整理 | 教育部 CC BY-ND 3.0 TW |
 | 台語漢字、台羅、華語對照 | 教育部《臺灣台語常用詞辭典》，經 [ChhoeTaigi](https://github.com/ChhoeTaigi/ChhoeTaigiDatabase) 整理 | 教育部 CC BY-ND 3.0 TW |
-| 台語錄音 | 教育部《臺灣台語常用詞辭典》音檔，使用時才從萌典的音檔主機載入 | 教育部 CC BY-ND 3.0 TW |
+| 台語錄音 | 教育部《臺灣台語常用詞辭典》網站的詞目錄音，使用時才載入 | 教育部 CC BY-ND 3.0 TW |
 | 照片 | 英文維基百科條目的代表圖、維基共享資源，使用時才載入 | 各圖授權見圖片來源頁 |
 | 中文、英文發音 | 裝置內建語音（Web Speech API） | — |
 | 程式碼、詞表 | 本專案 | MIT |
@@ -56,6 +56,7 @@ sw.js                 離線快取
 data/src/*.txt        詞表原稿（中文|英文|維基條目|emoji|級別）
 data/words.json       建置後的詞庫
 tools/build_words.py  由詞表產生 words.json（補注音、比對台語）
+tools/fetch_sutian_ids.js  在台語辭典網站查詞目編號（產生 data/sutian-ids.json）
 ```
 
 ### 新增或修改詞條
@@ -72,6 +73,8 @@ python3 tools/build_words.py \
   --moedict /tmp/moedict-data/dict-revised.json \
   --taigi /tmp/chhoetaigi/ChhoeTaigiDatabase/ChhoeTaigi_KauiokpooTaigiSutian.csv
 ```
+
+3. 新增了台語詞，想要有教育部錄音：先發布一次，到 https://sutian.moe.edu.tw/ 開發者主控台執行 `tools/fetch_sutian_ids.js`，把下載的 `sutian-ids.json` 放進 `data/`，再執行一次步驟 2。
 
 ## 下一步：第三期
 

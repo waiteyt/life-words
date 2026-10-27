@@ -95,7 +95,7 @@
 魟魚|stingray|Stingray|🐟|2
 烏賊|squid|Squid|🦑|2
 貝殼|seashell|Seashell|🐚|1
-蛤蜊|clam|Clam|🐚|2
+蛤蜊|clam|Hard clam|🐚|2
 牡蠣|oyster|Oyster|🦪|2
 海膽|sea urchin|Sea urchin|🟣|2
 珊瑚|coral|Coral|🪸|2
@@ -168,7 +168,7 @@
 雨|rain|Rain|🌧️|1
 彩虹|rainbow|Rainbow|🌈|1
 風|wind|Wind|🌬️|1
-打雷|thunder|Thunder|⛈️|1
+打雷|thunder|Thunderstorm|⛈️|1
 閃電|lightning|Lightning|⚡|1
 颱風|typhoon|Typhoon|🌀|1
 雪|snow|Snow|❄️|1

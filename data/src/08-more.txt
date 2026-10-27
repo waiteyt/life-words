@@ -18,7 +18,7 @@
 地下道|underpass|Underpass|🚇|2
 圍牆|fence wall|Fence|🧱|2
 大門|gate|Gate|🚪|2
-警衛室|guard booth|Guard house|💂|2
+警衛室|guard booth|-|💂|2
 樓梯扶手|handrail|Handrail|🪜|2
 手扶梯|escalator|Escalator|🛗|1
 旋轉門|revolving door|Revolving door|🚪|2
@@ -48,7 +48,7 @@ YouBike|public bike|YouBike|🚲|1
 @store 超市商品 🛍️
 衛生棉|sanitary pad|Sanitary napkin|🩹|2
 洗衣精|laundry detergent|Laundry detergent|🧴|2
-柔軟精|fabric softener|Fabric softener|🧴|2
+柔軟精|fabric softener|-|🧴|2
 漂白水|bleach|Bleach|🧴|2
 殺蟲劑|insect spray|Insecticide|🪳|2
 芳香劑|air freshener|Air freshener|🌸|2
@@ -98,7 +98,7 @@ YouBike|public bike|YouBike|🚲|1
 簡報|presentation|Presentation|📊|2
 名片|business card|Business card|📇|2
 公事包|briefcase|Briefcase|💼|2
-合約|contract|Contract|📝|2
+合約|contract|-|📝|2
 支票|check|Cheque|🧾|2
 存摺|bankbook|Passbook|📘|2
 印表紙|printer paper|Paper|📄|2
@@ -137,7 +137,7 @@ YouBike|public bike|YouBike|🚲|1
 鮭魚|salmon|Salmon as food|🐟|2
 鮪魚|tuna|Tuna as food|🐟|2
 虱目魚|milkfish|Milkfish|🐟|2
-花枝|cuttlefish|Cuttlefish|🦑|2
+花枝|cuttlefish|Sepia officinalis|🦑|2
 蛋包飯|omurice|Omurice|🍳|2
 蒸蛋|steamed egg|Chawanmushi|🥚|2
 滷蛋|braised egg|Soy egg|🥚|2
@@ -150,7 +150,7 @@ YouBike|public bike|YouBike|🚲|1
 牛角麵包|crescent roll|Croissant|🥐|2
 法國麵包|baguette|Baguette|🥖|2
 紅豆餅|red bean wheel cake|Imagawayaki|🥮|2
-綠豆湯|mung bean soup|Mung bean soup|🥣|2
+綠豆湯|mung bean soup|Mung bean|🥣|2
 紅豆湯|red bean soup|Red bean soup|🥣|2
 仙草|grass jelly|Grass jelly|⬛|2
 愛玉|aiyu jelly|Aiyu jelly|🟨|2

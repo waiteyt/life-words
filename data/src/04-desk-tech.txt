@@ -4,7 +4,7 @@
 彩色筆|marker|Marker pen|🖍️|1
 蠟筆|crayon|Crayon|🖍️|1
 色鉛筆|colored pencil|Colored pencil|✏️|1
-螢光筆|highlighter|Highlighter|🖍️|2
+螢光筆|highlighter|-|🖍️|2
 白板筆|whiteboard marker|Whiteboard marker|🖊️|2
 簽字筆|felt-tip pen|Felt-tip pen|🖊️|2
 鋼筆|fountain pen|Fountain pen|🖋️|2
@@ -52,7 +52,7 @@
 碎紙機|paper shredder|Paper shredder|📄|2
 護貝機|laminator|Laminator|📄|2
 印章|stamp|Seal (East Asia)|🔖|2
-印泥|ink pad|Ink pad|🔴|2
+印泥|ink pad|-|🔴|2
 @tech 電腦與3C 💻
 電腦|computer|Desktop computer|🖥️|1
 筆記型電腦|laptop|Laptop|💻|1
@@ -66,7 +66,7 @@
 手機|phone|Smartphone|📱|1
 平板|tablet|Tablet computer|📱|1
 耳機|headphones|Headphones|🎧|1
-無線耳機|earbuds|Earbuds|🎧|2
+無線耳機|earbuds|-|🎧|2
 喇叭|speaker|Loudspeaker|🔊|1
 麥克風|microphone|Microphone|🎤|1
 相機|camera|Camera|📷|1
@@ -104,8 +104,8 @@
 電子鎖|smart lock|Electronic lock|🔐|2
 QR碼|QR code|QR code|🔳|2
 條碼|barcode|Barcode|🔲|2
-加密貨幣|cryptocurrency|Cryptocurrency|🪙|2
-股票|stock chart|Stock market|📈|2
+加密貨幣|cryptocurrency|Bitcoin|🪙|2
+股票|stock chart|Candlestick chart|📈|2
 @tools 工具與五金 🔧
 鐵鎚|hammer|Hammer|🔨|1
 螺絲起子|screwdriver|Screwdriver|🪛|1
@@ -163,7 +163,7 @@ QR碼|QR code|QR code|🔳|2
 遊樂場|playground|Playground|🛝|1
 遊樂園|amusement park|Amusement park|🎡|2
 畢業典禮|graduation|Graduation|🎓|2
-獎狀|certificate|Certificate of merit|📜|2
+獎狀|certificate|Diploma|📜|2
 獎盃|trophy|Trophy|🏆|2
 獎牌|medal|Medal|🏅|2
 聯絡簿|communication book|-|📒|1
