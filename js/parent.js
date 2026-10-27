@@ -5,7 +5,7 @@ import {
   saveCustomWord, deleteCustomWord, putBlob, deleteBlob, exportBackup, importBackup,
 } from './store.js';
 import { say, listVoices, tts, recordClip } from './speech.js';
-import { imageFor, renderImage, searchCommons, prefetchWiki, forgetPhoto, sourceLink } from './images.js';
+import { imageFor, imagesFor, renderImage, searchCommons, prefetchWiki, forgetPhoto, sourceLink } from './images.js';
 
 const app = document.getElementById('app');
 let tab = 'settings';
@@ -253,6 +253,8 @@ function imageDialog(w, after) {
   const d = dialog(`
     <h2>換圖：${esc(w.zh)}</h2>
     <div class="img-now"><figure class="sticker" id="now"></figure><p class="hint" id="src"></p></div>
+    <p class="hint">遊戲會顯示下面這些圖卡（第一張是主圖）。認不出來的圖，按 ✕ 拿掉。</p>
+    <div class="card-row" id="cards"></div>
     <div class="img-actions">
       <label class="primary file-btn">📷 拍照或選照片<input type="file" accept="image/*" capture="environment" id="file" hidden></label>
       <button class="secondary" id="reset">還原預設圖</button>
@@ -265,7 +267,29 @@ function imageDialog(w, after) {
     renderImage(d.querySelector('#now'), img, w);
     const link = sourceLink(img);
     d.querySelector('#src').innerHTML = img.kind === 'photo' ? '這是你拍的照片（只存在這台裝置）'
-      : link ? `圖片來源：<a href="${link}" target="_blank" rel="noopener">維基共享資源</a>` : '目前顯示 emoji';
+      : link ? `圖片來源：<a href="${link}" target="_blank" rel="noopener">維基共享資源</a>` : img.kind === 'drawn' ? '程式畫的圖' : '目前顯示卡通圖';
+    const row = d.querySelector('#cards');
+    row.textContent = '';
+    for (const c of await imagesFor(w)) {
+      const box = document.createElement('div');
+      box.className = 'card-item';
+      const f = document.createElement('figure');
+      f.className = 'sticker';
+      renderImage(f, c, w);
+      box.append(f);
+      if (c.kind === 'wiki' && c.file) {
+        const x = document.createElement('button');
+        x.className = 'small'; x.type = 'button'; x.textContent = '✕'; x.setAttribute('aria-label', '拿掉這張');
+        x.onclick = () => {
+          const hide = new Set(getWordPrefs()[w.id]?.hideImgs || []);
+          hide.add(c.file);
+          setWordPref(w.id, { hideImgs: [...hide] });
+          showNow();
+        };
+        box.append(x);
+      }
+      row.append(box);
+    }
   };
   showNow();
   d.querySelector('#file').onchange = async e => {
@@ -276,7 +300,7 @@ function imageDialog(w, after) {
   };
   d.querySelector('#reset').onclick = async () => {
     await deleteBlob(`${w.id}:photo`); forgetPhoto(w.id);
-    setWordPref(w.id, { img: null, imgFile: null });
+    setWordPref(w.id, { img: null, imgFile: null, hideImgs: null });
     showNow();
   };
   d.querySelector('#sform').onsubmit = async e => {

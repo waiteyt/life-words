@@ -1,11 +1,11 @@
 // 離線快取：程式與詞庫先存起來；看過的照片、台語錄音也留在快取，下次沒網路也能玩
-const VERSION = 'lw-v2';
+const VERSION = 'lw-v3';
 const SHELL = [
-  './', 'index.html', 'css/app.css', 'manifest.webmanifest', 'data/words.json',
+  './', 'index.html', 'css/app.css', 'manifest.webmanifest', 'data/words.json', 'data/images.json',
   'js/app.js', 'js/store.js', 'js/speech.js', 'js/images.js', 'js/parent.js', 'js/sfx.js',
   'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png',
 ];
-const MEDIA_HOSTS = ['upload.wikimedia.org', 'sutian.moe.edu.tw', 'fonts.gstatic.com', 'fonts.googleapis.com'];
+const MEDIA_HOSTS = ['upload.wikimedia.org', 'commons.wikimedia.org', 'sutian.moe.edu.tw', 'fonts.gstatic.com', 'fonts.googleapis.com'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

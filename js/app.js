@@ -1,6 +1,6 @@
 import { getSettings, saveSettings, getProgress, recordAnswer, getWordPrefs, listCustomWords, listBlobKeys } from './store.js';
 import { say, stopAll, canSay, listenForVoice, releaseMic } from './speech.js';
-import { prefetchWiki, imageFor, renderImage } from './images.js';
+import { prefetchWiki, imageFor, imagesFor, renderImage, loadGallery } from './images.js';
 import { openParent } from './parent.js';
 import { chime, buzz } from './sfx.js';
 
@@ -220,6 +220,7 @@ async function renderSay() {
   gameShell(`
     <div class="stage">
       <figure class="sticker big" id="pic"></figure>
+      <div class="hints" id="hints" aria-label="其他圖卡"></div>
       <div class="answer" id="answer" hidden>${wordText(w)}</div>
       <div class="hear-row" id="hearRow" hidden>
         ${langs.map(l => `<button class="hear" data-lang="${l}">🔊 ${LANG_NAME[l]}</button>`).join('')}
@@ -234,7 +235,25 @@ async function renderSay() {
       <button class="ok" id="ok">✓ 說出來了</button>
       <button class="again" id="again">↻ 還要練習</button>
     </div>`);
-  renderImage(document.getElementById('pic'), await imageFor(w), w);
+  const cards = await imagesFor(w);
+  const pic = document.getElementById('pic'), hints = document.getElementById('hints');
+  renderImage(pic, cards[0], w);
+  // 其他圖卡：點一下放大
+  if (cards.length > 1) {
+    cards.slice(0, 4).forEach((c, k) => {
+      const b = document.createElement('button');
+      b.className = 'hint sticker' + (k === 0 ? ' on' : '');
+      b.setAttribute('aria-label', `第 ${k + 1} 張圖`);
+      const f = document.createElement('figure');
+      b.append(f);
+      renderImage(f, c, w);
+      b.onclick = () => {
+        hints.querySelectorAll('.hint').forEach(x => x.classList.toggle('on', x === b));
+        renderImage(pic, c, w);
+      };
+      hints.append(b);
+    });
+  }
 
   const reveal = async (heard) => {
     document.getElementById('answer').hidden = false;
@@ -289,13 +308,22 @@ async function renderTap() {
       <button class="speaker" id="speaker" aria-label="再聽一次"><span class="speaker-ico">🔊</span><span class="speaker-lang">${LANG_NAME[lang]}</span></button>
     </div>
     <div class="options n${opts.length}">
-      ${opts.map(o => `<button class="option sticker" data-id="${esc(o.id)}" aria-label="選項"><figure></figure></button>`).join('')}
+      ${opts.map(o => `<button class="option sticker" data-id="${esc(o.id)}" aria-label="選項"><figure class="main"></figure><span class="minis"></span></button>`).join('')}
     </div>
     <div class="answer tap-answer" id="answer" hidden>${wordText(w)}</div>`);
   const optEls = [...app.querySelectorAll('.option')];
   await Promise.all(optEls.map(async el => {
     const o = state.byId.get(el.dataset.id);
-    renderImage(el.querySelector('figure'), await imageFor(o), o);
+    const cs = await imagesFor(o);
+    renderImage(el.querySelector('figure.main'), cs[0], o);
+    // 主圖下面再放兩張小圖卡當提示
+    const minis = el.querySelector('.minis');
+    for (const c of cs.slice(1, 3)) {
+      const f = document.createElement('figure');
+      minis.append(f);
+      renderImage(f, c, o);
+    }
+    if (!minis.children.length) minis.remove();
   }));
   const play = () => say(w, lang);
   document.getElementById('speaker').onclick = play;
@@ -364,7 +392,7 @@ async function renderDone() {
 // ---------- 啟動 ----------
 async function boot() {
   try {
-    await loadData();
+    await Promise.all([loadData(), loadGallery()]);
     renderHome();
   } catch (e) {
     app.innerHTML = `<section class="home"><p class="error">詞庫載入失敗：${esc(e.message)}。請確認網路後重新整理。</p></section>`;
