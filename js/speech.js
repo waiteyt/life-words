@@ -19,6 +19,13 @@ export function listVoices(lang) {
   return list;
 }
 
+// 裝置沒有英文語音時，不要用中文語音硬唸英文
+export function hasVoice(lang) {
+  loadVoices();
+  if (!voices.length) return lang === 'zh';   // 語音清單還沒載入時，先假設有中文
+  return listVoices(lang).length > 0;
+}
+
 function pickVoice(lang) {
   const s = getSettings();
   const wanted = lang === 'zh' ? s.zhVoice : s.enVoice;
@@ -75,7 +82,7 @@ export function taigiAudioUrls(sid) {
 export function canSay(word, lang, recKeys) {
   if (recKeys && recKeys.has(`${word.id}:rec:${lang}`)) return true;
   if (lang === 'zh') return !!word.zh;
-  if (lang === 'en') return !!word.en;
+  if (lang === 'en') return !!word.en && hasVoice('en');
   if (lang === 'tw') return !!(word.tw && taigiAudioUrls(word.tw.sid).length);
   return false;
 }

@@ -68,6 +68,7 @@ function renderSettings(panel) {
       <fieldset><legend>英文語音</legend>
         <select id="enVoice"><option value="">自動挑選</option>${enVoices.map(v => `<option ${s.enVoice === v.name ? 'selected' : ''}>${esc(v.name)}</option>`).join('')}</select>
         <button class="secondary small" id="testEn">試聽</button>
+        ${enVoices.length ? '' : '<p class="hint warn">這台裝置沒有英文語音，所以不會用英文出題。Windows 可到「設定 → 時間與語言 → 語音」加裝「English (United States)」；手機和平板通常已內建。</p>'}
       </fieldset>
       <fieldset><legend>台語錄音</legend>
         <button class="secondary small" id="testTw">試聽「西瓜」</button>
